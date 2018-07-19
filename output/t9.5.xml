@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-    <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>T9.5.: Orders and Threats</title>
+                <title>T9.5.: Orders and threats</title>
                 <respStmt>
         <resp>Encoded in XML from original publication</resp>
         <name>Tom Elliott</name>
@@ -51,8 +51,7 @@
                         </objectDesc>
                         <handDesc>
 
-                            <handNote>Block capital letters. Letter height: <height
-                                    unit="centimeter" min="4" max="5" scope="letter">5-6</height> cm
+                            <handNote>Block capital letters. Letter height: <height unit="centimeter" min="4" max="5" scope="letter">5-6</height> cm
                                 high. </handNote>
                         </handDesc>
                     </physDesc>
