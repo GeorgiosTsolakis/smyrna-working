@@ -50,7 +50,14 @@
                             <handNote>Block letters. Letter height <height unit="centimeter" min="3" max="4" scope="letter">3–4</height> cm high.</handNote>
                         </handDesc>
                     </physDesc>
-                </msDesc>
+                <history>
+                        <origin>
+                            <origPlace>Smyrna</origPlace>
+                            <placeName ref="URI" type="property_number">https://pleiades.stoa.org/places/550771</placeName>
+                            <origDate notBefore-custom="0180" notAfter-custom="0300" datingMethod="#julian">180-300</origDate>
+                        </origin>
+                    </history>
+ </msDesc>
             </sourceDesc>
 
         </fileDesc>
