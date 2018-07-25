@@ -59,7 +59,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="edition" xml:space="preserve">
+            <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                     <lb/>εὐφήμει τοῦ παιδίου τόπος
                     <lb/>διὰ θεόν παίδω̣ν δή̣μο̣υ̣ III

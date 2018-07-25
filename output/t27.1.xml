@@ -57,7 +57,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="edition" xml:space="preserve">
+            <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                     <lb/>ὀφθαλ
                     <lb break="no"/>μοὺς [ὑ-] πὸ θεῶ̣[ν] εὐχαρι

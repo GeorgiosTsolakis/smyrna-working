@@ -57,7 +57,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="edition" xml:space="preserve">
+            <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                     <lb/>τικτομ̣έ
                     <lb break="no"/>νη κατ̣ὰ ΠΑ   ̣ ΣΤ   ̣</ab>

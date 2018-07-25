@@ -59,7 +59,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="edition" xml:space="preserve">
+            <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                     <lb/>ζήτημα Εἴσιδι αδι αδι διασω
                     <lb break="no"/>θείς αδι α-

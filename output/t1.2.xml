@@ -63,7 +63,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="edition" xml:space="preserve">
+            <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                     <lb n="1"/><persName type="attested"><name nymRef="Παρθένα" type="cognomen"><unclear>Π</unclear>αρθένα</name></persName> <unclear>Ζ</unclear>μυρνιαία<gap reason="illegible" quantity="2" unit="character"/>
                 </ab>

@@ -57,7 +57,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="edition" xml:space="preserve">
+            <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                     <lb/>Ε[   ̣  ̣  ̣ ]  Σ ΔΕΙ[
                     <lb/>ΚΑΤΑΠΟΤΑ [ Γ̣ΡΑΦΙΤΑΥ[ ΣΙΠΙΛΑΣ[

@@ -70,7 +70,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="edition" xml:space="preserve">
+            <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                     <lb n="1"/>ΑΠΟΛΟΛΕΙ
                     <lb n="2"/><w lemma="ζήτημα">ζήτημα</w>
