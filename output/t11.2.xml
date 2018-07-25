@@ -57,7 +57,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="edition" xml:space="preserve">
+            <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                     <lb/>ΚΑ̣ΤΑΧ̣ ΑΜ̣ ΑΛ</ab>
             </div>

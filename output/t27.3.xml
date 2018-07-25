@@ -57,7 +57,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="edition" xml:space="preserve">
+            <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                     <lb/>φιλῶ ἧς ὁ &lt;ἀ&gt;ριθμὸς Ατη</ab>
             </div>

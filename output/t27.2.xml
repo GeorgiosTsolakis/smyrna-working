@@ -57,7 +57,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="edition" xml:space="preserve">
+            <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                     <lb/>Ἡγεῖνος εἶπ̣[εν] τ̣ὸν̣ ὀφθαλμ[ὸν]
                     <lb/>ἐν τάχει ἐθαραπεύ̣[θην]</ab>

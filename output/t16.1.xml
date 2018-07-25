@@ -57,7 +57,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="edition" xml:space="preserve">
+            <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                     <lb/>Χαρίας ὁ κα[ὶ] Λ̣ου
                     <lb break="no"/>κος εὐξάμενος

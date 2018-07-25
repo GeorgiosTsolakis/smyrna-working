@@ -57,7 +57,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="edition" xml:space="preserve">
+            <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                     <lb/>ἐμήσθη Χα̣[
                     <lb/>τῆς καλῆς̣ κ̣υ̣λίας εὐτύχει Χαρίτων̣ μετ̣ὰ Ὑιείνου</ab>

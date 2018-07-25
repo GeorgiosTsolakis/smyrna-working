@@ -73,7 +73,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="edition" xml:space="preserve">
+            <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                     <lb n="1"/><gap reason="lost" quantity="6" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>ΕΙΝΤ<gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><gap reason="illegible" quantity="1" unit="character"/>Ν<gap reason="illegible" quantity="4" unit="character"/>ΕΙΣΕΘΩΚΑ<gap reason="lost" extent="unknown" unit="character"/>

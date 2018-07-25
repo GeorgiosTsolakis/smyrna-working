@@ -70,7 +70,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="edition" xml:space="preserve">
+            <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                    <lb n="1"/><persName type="attested"><name nymRef="Ὀνήσιμος" type="cognomen">Ὀνήσιμε</name></persName>, μὴ <w lemma="*κλειδίζω">κλίδι<unclear>σο</unclear>ν</w>
                    <lb n="2"/>καὶ <w lemma="μιαίνω">μί<unclear>αιν</unclear>ε</w> τὴν ὑπὸ <w lemma="θεός">θεῶν</w>
