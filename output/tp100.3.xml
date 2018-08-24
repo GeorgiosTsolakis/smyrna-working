@@ -18,14 +18,14 @@
             </publicationStmt>
             <sourceDesc>
                 <bibl>
-                    <author>R.S. Bagnall</author>, 
-                    <author>R. Casagrande-Kim</author>, 
-                    <author>A. Ersoy</author>, 
-                    <author>C. Tanriver</author> and 
-                    <author>B. Yolaçan</author>, 
-                    <title level="m">Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    <author>R.S. Bagnall</author>,
+                    <author>R. Casagrande-Kim</author>,
+                    <author>A. Ersoy</author>,
+                    <author>C. Tanriver</author> and
+                    <author>B. Yolaçan</author>,
+                    <title level="m">Graffiti from the Basilica in the Agora of Smyrna</title>
                     (<pubPlace>New York</pubPlace>
-                    <date>2016</date>), 
+                    <date>2016</date>),
                     <biblScope unit="item">TP100.3.</biblScope>.</bibl>
                 <msDesc>
                     <msIdentifier>
@@ -40,7 +40,7 @@
                             <supportDesc>
                                 <support>
                     <lb/>on the bevel to the right of the south side, at the same height as TP100.1 and TP100.2. on the lower layer of plaster. possibly two separate inscriptions but in the same hand. area 15 cm wide
-                    <lb/>× 10 cm high, starting at 12 cm from the left edge. detached letters 1 cm high. Bibliography: Bagnall, Everyday Writing, p. 22; SEG 61.973 (lower text).</support>
+                    <lb/>× 10 cm high, starting at 12 cm from the left edge. detached letters 1 cm high.</support>
                             </supportDesc>
                         </objectDesc>
                     </physDesc>
@@ -53,9 +53,9 @@
                     </history>
  </msDesc>
             </sourceDesc>
-            
+
         </fileDesc>
-        
+
     </teiHeader>
     <text>
         <body>
@@ -72,7 +72,7 @@
                 <ab/>
             </div>
         <div type="bibliography">
-            <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): TK.</p>
+            <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): TK; Bagnall, R. S., Everyday Writing in the Graeco-Roman East (2011): 22; SEG 61.973 (lower text).</p>
         </div>
  </body>
     </text>
