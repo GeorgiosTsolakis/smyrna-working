@@ -21,7 +21,9 @@
                 <bibl>
                     <author>R.S. Bagnall</author>, <author>R. Casagrande-Kim</author>, <author>A.
                         Ersoy</author>, <author>C. Tanriver</author> and <author>B.
-                    Yolaçan</author>, <title level="m">Graffiti from the Basilica in the Agora of
+                    Yolaçan</author>, <title
+                        level="m"
+                        >Graffiti from the Basilica in the Agora of
                         Smyrna</title> (<pubPlace>New York</pubPlace>
                     <date>2016</date>), <biblScope unit="item">T9.6.</biblScope>.</bibl>
                 <msDesc>
@@ -47,17 +49,20 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Block letters. Letter height <height unit="centimeter" min="3" max="4" scope="letter">3–4</height> cm high.</handNote>
+                            <handNote>Block letters. Letter height <height unit="centimeter" min="3"
+                                    max="4" scope="letter">3–4</height> cm high.</handNote>
                         </handDesc>
                     </physDesc>
-                <history>
+                    <history>
                         <origin>
                             <origPlace>Smyrna</origPlace>
-                            <placeName ref="URI" type="property_number">https://pleiades.stoa.org/places/550771</placeName>
-                            <origDate notBefore-custom="0180" notAfter-custom="0300" datingMethod="#julian">180-300</origDate>
+                            <placeName ref="URI" type="property_number"
+                                >https://pleiades.stoa.org/places/550771</placeName>
+                            <origDate notBefore-custom="0180" notAfter-custom="0300"
+                                datingMethod="#julian">180-300</origDate>
                         </origin>
                     </history>
- </msDesc>
+                </msDesc>
             </sourceDesc>
 
         </fileDesc>
@@ -84,7 +89,7 @@
             </div>
             <div type="bibliography">
                 <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 122-123.</p>
-            </div>            
+            </div>
         </body>
     </text>
 </TEI>

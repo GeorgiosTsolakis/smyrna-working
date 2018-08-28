@@ -6,12 +6,13 @@
         <fileDesc>
             <titleStmt>
                 <title>D22.1.: Portrait: Bust</title>
-            <respStmt>
-        <resp>Encoded in XML from original publication</resp>
-        <name>Tom Elliott</name>
-        <name>David M. Ratzan</name>
-        <name>Patrick J. Burns</name>
-    </respStmt></titleStmt>
+                <respStmt>
+                    <resp>Encoded in XML from original publication</resp>
+                    <name>Tom Elliott</name>
+                    <name>David M. Ratzan</name>
+                    <name>Patrick J. Burns</name>
+                </respStmt>
+            </titleStmt>
             <publicationStmt>
                 <ab>Drafting working materials by Institute for the Study of the Ancient World. Not
                     ready for publication.</ab>
@@ -23,10 +24,13 @@
                     <author>A. Ersoy</author>, 
                     <author>C. Tanriver</author> and 
                     <author>B. Yolaçan</author>, 
-                    <title level="m">Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    <title
+                        level="m"
+                        >Graffiti from the Basilica in the Agora of Smyrna</title> 
                     (<pubPlace>New York</pubPlace>
                     <date>2016</date>), 
-                    <biblScope unit="item">D22.1.</biblScope>.</bibl>
+                    <biblScope unit="item"
+                        >D22.1.</biblScope>.</bibl>
                 <msDesc>
                     <msIdentifier>
                         <country>Turkey</country>
@@ -39,35 +43,38 @@
                         <objectDesc>
                             <supportDesc>
                                 <support>
-                    <lb/>In the western half of the bay, in black ink. dimensions 13.5 cm wide × 15.5 cm high.
+                                    <lb/>In the western half of the bay, in black ink. dimensions 13.5 cm wide × 15.5 cm high.
                     <lb/>dipinto of a human bust, located in the western half of the back wall of Bay 22, toward the middle. The head, possibly of a female, is drawn in profile toward the left, and the bust is cut short right below the shoulders. The figure has an up hairdo consistent with late second century fashion: in the front the hair is wavy and descends to cover the forehead, while at the back the hairs are gathered together in a bun fastened with a fillet. The woman in the graffito is depicted with a rather long, “roman” nose, thick and protruding lips, and round and prominent chin. The large, almond-shaped eye, positioned near the hair line, is completed with eyelashes and a pupil which is turned to look directly at the viewer.
                     <lb/>similar hairstyles are attested on portraits of faustina the younger, like the one at Musei capi- tolini in rome dated to 147–148, or of Bruttia crispina, like the head at the altes Museum, Ber- lin, dated to 178–180. Basic information on portraits of these two roman queens can be found in Kleiner 1992: 277–80.</support>
                             </supportDesc>
-                        <layoutDesc>
-                                        <layout>TK Dimensions:
+                            <layoutDesc>
+                                <layout>TK Dimensions:
                                             <dimensions>
-                                                <height unit="centimeter">TK</height>
-                                                <width unit="centimeter">TK</width>
-                                            </dimensions>
-                                        </layout>
-                                    </layoutDesc>
- </objectDesc>
-                    <handDesc>
-                                    <handNote>Letter heights: <height unit="centimeter" min="" max="" scope="letter">TK</height> cm high</handNote>
-                                </handDesc>
- </physDesc>
-                <history>
+                                        <height unit="centimeter">TK</height>
+                                        <width unit="centimeter">TK</width>
+                                    </dimensions>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>Letter heights: <height unit="centimeter" min="" max=""
+                                    scope="letter">TK</height> cm high</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
                         <origin>
                             <origPlace>Smyrna</origPlace>
-                            <placeName ref="URI" type="property_number">https://pleiades.stoa.org/places/550771</placeName>
-                            <origDate notBefore-custom="0180" notAfter-custom="0300" datingMethod="#julian">180-300</origDate>
+                            <placeName ref="URI" type="property_number"
+                                >https://pleiades.stoa.org/places/550771</placeName>
+                            <origDate notBefore-custom="0180" notAfter-custom="0300"
+                                datingMethod="#julian">180-300</origDate>
                         </origin>
                     </history>
- </msDesc>
+                </msDesc>
             </sourceDesc>
-            
+
         </fileDesc>
-        
+
     </teiHeader>
     <text>
         <body>
@@ -80,9 +87,9 @@
             <div type="commentary">
                 <ab/>
             </div>
-        <div type="bibliography">
-            <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): TK.</p>
-        </div>
- </body>
+            <div type="bibliography">
+                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): TK.</p>
+            </div>
+        </body>
     </text>
 </TEI>

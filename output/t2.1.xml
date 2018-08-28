@@ -7,11 +7,12 @@
             <titleStmt>
                 <title>T2.1.: Uncertain</title>
                 <respStmt>
-        <resp>Encoded in XML from original publication</resp>
-        <name>Tom Elliott</name>
-        <name>David M. Ratzan</name>
-        <name>Patrick J. Burns</name>
-    </respStmt></titleStmt>
+                    <resp>Encoded in XML from original publication</resp>
+                    <name>Tom Elliott</name>
+                    <name>David M. Ratzan</name>
+                    <name>Patrick J. Burns</name>
+                </respStmt>
+            </titleStmt>
             <publicationStmt>
                 <ab>First published by the Institute for the Study of the Ancient World and the New
                     York University Press, 2016. XML edition published by the Institute for the
@@ -24,10 +25,13 @@
                     <author>A. Ersoy</author>, 
                     <author>C. Tanriver</author> and 
                     <author>B. Yolaçan</author>, 
-                    <title level="m">Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    <title
+                        level="m"
+                        >Graffiti from the Basilica in the Agora of Smyrna</title> 
                     (<pubPlace>New York</pubPlace>
                     <date>2016</date>), 
-                    <biblScope unit="item">T2.1.</biblScope>.
+                    <biblScope unit="item"
+                        >T2.1.</biblScope>.
                 </bibl>
                 <msDesc>
                     <msIdentifier>
@@ -56,18 +60,22 @@
                         </objectDesc>
                         <handDesc>
                             <handNote>Irregular cursive hand; entire inscription crossed out with large X.
-                                Letter heights: <height unit="centimeter" min="3" max="4" scope="letter">3-4 cm, except rho.</height>
+                                Letter heights: <height
+                                    unit="centimeter" min="3" max="4" scope="letter"
+                                    >3-4 cm, except rho.</height>
                             </handNote>
                         </handDesc>
                     </physDesc>
                     <history>
                         <origin>
                             <origPlace>Smyrna</origPlace>
-                            <placeName ref="URI" type="property_number">https://pleiades.stoa.org/places/550771</placeName>
-                            <origDate notBefore-custom="0180" notAfter-custom="0300" datingMethod="#julian">180-300</origDate>
+                            <placeName ref="URI" type="property_number"
+                                >https://pleiades.stoa.org/places/550771</placeName>
+                            <origDate notBefore-custom="0180" notAfter-custom="0300"
+                                datingMethod="#julian">180-300</origDate>
                         </origin>
                     </history>
- </msDesc>
+                </msDesc>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
@@ -86,7 +94,11 @@
             </div>
             <div type="commentary">
                 <p>1. To the left there are faint traces that we have not attempted to represent as separate letters here. Possibly –ειν is to be taken as an infinitive ending. 
-                    2. We cannot propose a word with εθωκα that could plausibly be read here; only Hesychius’ listing of a doric third person plural perfect form <w lemma="ἔθω">ἐθώκατι</w> of ἔθω appears in a TLG search. Possibly we should suppose the theta to be a phonetic error for delta and understand <w lemma="εἰσδίδωμι">εἰσέδωκα</w>. 
+                    2. We cannot propose a word with εθωκα that could plausibly be read here; only Hesychius’ listing of a doric third person plural perfect form <w
+                        lemma="ἔθω"
+                        >ἐθώκατι</w> of ἔθω appears in a TLG search. Possibly we should suppose the theta to be a phonetic error for delta and understand <w
+                        lemma="εἰσδίδωμι"
+                    >εἰσέδωκα</w>. 
                     4. At the start, gamma or pi; after epsilon, perhaps lambda. The letter before omicron looks like a very large mu or double lambda; the letter preceding that could also be mu.</p>
             </div>
             <div type="bibliography">
