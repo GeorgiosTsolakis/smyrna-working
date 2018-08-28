@@ -6,12 +6,13 @@
         <fileDesc>
             <titleStmt>
                 <title>D9.2.: Ship</title>
-            <respStmt>
-        <resp>Encoded in XML from original publication</resp>
-        <name>Tom Elliott</name>
-        <name>David M. Ratzan</name>
-        <name>Patrick J. Burns</name>
-    </respStmt></titleStmt>
+                <respStmt>
+                    <resp>Encoded in XML from original publication</resp>
+                    <name>Tom Elliott</name>
+                    <name>David M. Ratzan</name>
+                    <name>Patrick J. Burns</name>
+                </respStmt>
+            </titleStmt>
             <publicationStmt>
                 <ab>Drafting working materials by Institute for the Study of the Ancient World. Not
                     ready for publication.</ab>
@@ -23,10 +24,13 @@
                     <author>A. Ersoy</author>, 
                     <author>C. Tanriver</author> and 
                     <author>B. Yolaçan</author>, 
-                    <title level="m">Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    <title
+                        level="m"
+                        >Graffiti from the Basilica in the Agora of Smyrna</title> 
                     (<pubPlace>New York</pubPlace>
                     <date>2016</date>), 
-                    <biblScope unit="item">D9.2.</biblScope>.</bibl>
+                    <biblScope unit="item"
+                        >D9.2.</biblScope>.</bibl>
                 <msDesc>
                     <msIdentifier>
                         <country>Turkey</country>
@@ -40,31 +44,34 @@
                             <supportDesc>
                                 <support/>
                             </supportDesc>
-                        <layoutDesc>
-                                        <layout>TK Dimensions:
+                            <layoutDesc>
+                                <layout>TK Dimensions:
                                             <dimensions>
-                                                <height unit="centimeter">TK</height>
-                                                <width unit="centimeter">TK</width>
-                                            </dimensions>
-                                        </layout>
-                                    </layoutDesc>
- </objectDesc>
-                    <handDesc>
-                                    <handNote>Letter heights: <height unit="centimeter" min="" max="" scope="letter">TK</height> cm high</handNote>
-                                </handDesc>
- </physDesc>
-                <history>
+                                        <height unit="centimeter">TK</height>
+                                        <width unit="centimeter">TK</width>
+                                    </dimensions>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>Letter heights: <height unit="centimeter" min="" max=""
+                                    scope="letter">TK</height> cm high</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
                         <origin>
                             <origPlace>Smyrna</origPlace>
-                            <placeName ref="URI" type="property_number">https://pleiades.stoa.org/places/550771</placeName>
-                            <origDate notBefore-custom="0180" notAfter-custom="0300" datingMethod="#julian">180-300</origDate>
+                            <placeName ref="URI" type="property_number"
+                                >https://pleiades.stoa.org/places/550771</placeName>
+                            <origDate notBefore-custom="0180" notAfter-custom="0300"
+                                datingMethod="#julian">180-300</origDate>
                         </origin>
                     </history>
- </msDesc>
+                </msDesc>
             </sourceDesc>
-            
+
         </fileDesc>
-        
+
     </teiHeader>
     <text>
         <body>
@@ -77,9 +84,9 @@
             <div type="commentary">
                 <ab/>
             </div>
-        <div type="bibliography">
-            <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): TK.</p>
-        </div>
- </body>
+            <div type="bibliography">
+                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): TK.</p>
+            </div>
+        </body>
     </text>
 </TEI>

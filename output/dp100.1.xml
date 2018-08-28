@@ -6,12 +6,13 @@
         <fileDesc>
             <titleStmt>
                 <title>Dp100.1.: Ship</title>
-            <respStmt>
-        <resp>Encoded in XML from original publication</resp>
-        <name>Tom Elliott</name>
-        <name>David M. Ratzan</name>
-        <name>Patrick J. Burns</name>
-    </respStmt></titleStmt>
+                <respStmt>
+                    <resp>Encoded in XML from original publication</resp>
+                    <name>Tom Elliott</name>
+                    <name>David M. Ratzan</name>
+                    <name>Patrick J. Burns</name>
+                </respStmt>
+            </titleStmt>
             <publicationStmt>
                 <ab>Drafting working materials by Institute for the Study of the Ancient World. Not
                     ready for publication.</ab>
@@ -23,10 +24,13 @@
                     <author>A. Ersoy</author>, 
                     <author>C. Tanriver</author> and 
                     <author>B. Yolaçan</author>, 
-                    <title level="m">Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    <title
+                        level="m"
+                        >Graffiti from the Basilica in the Agora of Smyrna</title> 
                     (<pubPlace>New York</pubPlace>
                     <date>2016</date>), 
-                    <biblScope unit="item">DP100.1.</biblScope>.</bibl>
+                    <biblScope unit="item"
+                        >DP100.1.</biblScope>.</bibl>
                 <msDesc>
                     <msIdentifier>
                         <country>Turkey</country>
@@ -39,34 +43,37 @@
                         <objectDesc>
                             <supportDesc>
                                 <support>
-                    <lb/>on the east face of pier a100, incised. dimensions 22.5 cm wide × 25 cm high.
+                                    <lb/>on the east face of pier a100, incised. dimensions 22.5 cm wide × 25 cm high.
                     <lb/>Graffito of a ship sailing on port tack, possibly a liburna, located on the eastern face of pier a100. The graffito is partially damaged by a large gap in the plaster that has destroyed the ship’s stern and the left half of the sail. The ship is characterized by a large central mast, which is cov- ered in a motif of crisscrossing lines identifying the rigging. a set of vertical lines, also meant to represent the rigging as well as the sail’s brailing ropes, departs from the yard and reaches the ship’s deck, defining a large trapezoidal sail. above the yard, a series of diagonal lines departing from the central mast (considerably narrower than the portion visible below the yard and ter- minating in a very stylized καρχήσιον) are part of the κηροῦχοι. The keel is flat, and the prow is slightly rounded. above the gunwale is a lattice motif representing the boat’s sidescreen, sug- gesting that the liburna was of the cataphract type. The prow terminates with a short triangular στόλος with no ἀκροστόλιον above it. from the keel projects an exaggerated ἔμβολος, in the shape of a stylized penis, with a diagonal line on the tip identifying the epithelium, confirming that the vessel has to be interpreted as a navis rostrata.</support>
                             </supportDesc>
-                        <layoutDesc>
-                                        <layout>TK Dimensions:
+                            <layoutDesc>
+                                <layout>TK Dimensions:
                                             <dimensions>
-                                                <height unit="centimeter">TK</height>
-                                                <width unit="centimeter">TK</width>
-                                            </dimensions>
-                                        </layout>
-                                    </layoutDesc>
- </objectDesc>
-                    <handDesc>
-                                    <handNote>Letter heights: <height unit="centimeter" min="" max="" scope="letter">TK</height> cm high</handNote>
-                                </handDesc>
- </physDesc>
-                <history>
+                                        <height unit="centimeter">TK</height>
+                                        <width unit="centimeter">TK</width>
+                                    </dimensions>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>Letter heights: <height unit="centimeter" min="" max=""
+                                    scope="letter">TK</height> cm high</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
                         <origin>
                             <origPlace>Smyrna</origPlace>
-                            <placeName ref="URI" type="property_number">https://pleiades.stoa.org/places/550771</placeName>
-                            <origDate notBefore-custom="0180" notAfter-custom="0300" datingMethod="#julian">180-300</origDate>
+                            <placeName ref="URI" type="property_number"
+                                >https://pleiades.stoa.org/places/550771</placeName>
+                            <origDate notBefore-custom="0180" notAfter-custom="0300"
+                                datingMethod="#julian">180-300</origDate>
                         </origin>
                     </history>
- </msDesc>
+                </msDesc>
             </sourceDesc>
-            
+
         </fileDesc>
-        
+
     </teiHeader>
     <text>
         <body>
@@ -79,9 +86,9 @@
             <div type="commentary">
                 <ab/>
             </div>
-        <div type="bibliography">
-            <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): TK.</p>
-        </div>
- </body>
+            <div type="bibliography">
+                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): TK.</p>
+            </div>
+        </body>
     </text>
 </TEI>

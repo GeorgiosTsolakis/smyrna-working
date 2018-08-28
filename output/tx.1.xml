@@ -7,11 +7,12 @@
             <titleStmt>
                 <title>Tx.1.: Uncertain</title>
                 <respStmt>
-        <resp>Encoded in XML from original publication</resp>
-        <name>Tom Elliott</name>
-        <name>David M. Ratzan</name>
-        <name>Patrick J. Burns</name>
-    </respStmt></titleStmt>
+                    <resp>Encoded in XML from original publication</resp>
+                    <name>Tom Elliott</name>
+                    <name>David M. Ratzan</name>
+                    <name>Patrick J. Burns</name>
+                </respStmt>
+            </titleStmt>
             <publicationStmt>
                 <ab>First published by the Institute for the Study of the Ancient World and the New York University Press, 2016. XML edition published by the Institute for the Study of the Ancient World and the Ancient Graffiti Project, 2018.</ab>
             </publicationStmt>
@@ -22,10 +23,13 @@
                     <author>A. Ersoy</author>, 
                     <author>C. Tanriver</author> and 
                     <author>B. Yolaçan</author>, 
-                    <title level="m">Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    <title
+                        level="m"
+                        >Graffiti from the Basilica in the Agora of Smyrna</title> 
                     (<pubPlace>New York</pubPlace>
                     <date>2016</date>), 
-                    <biblScope unit="item">TX.1.</biblScope>.</bibl>
+                    <biblScope unit="item"
+                        >TX.1.</biblScope>.</bibl>
                 <msDesc>
                     <msIdentifier>
                         <country>Turkey</country>
@@ -46,21 +50,24 @@
                                         <height unit="centimeter">10</height>
                                         <width unit="centimeter">23.5</width>
                                     </dimensions>
-                                </layout>   
+                                </layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Letter heights: <height unit="centimeter" min="3" max="3.5" scope="letter">3.0-3.5</height> cm high</handNote>
+                            <handNote>Letter heights: <height unit="centimeter" min="3" max="3.5"
+                                    scope="letter">3.0-3.5</height> cm high</handNote>
                         </handDesc>
                     </physDesc>
                     <history>
                         <origin>
                             <origPlace>Smyrna</origPlace>
-                            <placeName ref="URI" type="property_number">https://pleiades.stoa.org/places/550771</placeName>
-                            <origDate notBefore-custom="0180" notAfter-custom="0300" datingMethod="#julian">180-300</origDate>
+                            <placeName ref="URI" type="property_number"
+                                >https://pleiades.stoa.org/places/550771</placeName>
+                            <origDate notBefore-custom="0180" notAfter-custom="0300"
+                                datingMethod="#julian">180-300</origDate>
                         </origin>
                     </history>
- </msDesc>
+                </msDesc>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
