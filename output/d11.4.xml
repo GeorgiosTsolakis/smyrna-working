@@ -42,7 +42,15 @@
                     <lb/>In the lower right quadrant of the bay, in black ink. dimensions 2 cm wide × 12 cm high.
                     <lb/>schematic dipinto of a human head, possibly male, located in the lower right quadrant of the back wall of Bay 11. The head is depicted in profile, with a prominent and round forehead, long pointed nose, small mouth with a triangular upper lip, and an oval slanted eye. The upper part of the head is faded, so it difficult to recognize any hairdo.</support>
                             </supportDesc>
-                        </objectDesc>
+                        <layoutDesc>
+                                        <layout>TK Dimensions:
+                                            <dimensions>
+                                                <height unit="centimeter">TK</height>
+                                                <width unit="centimeter">TK</width>
+                                            </dimensions>
+                                        </layout>
+                                    </layoutDesc>
+ </objectDesc>
                     </physDesc>
                 <history>
                         <origin>

@@ -42,7 +42,15 @@
                     <lb/>In the lower right quadrant of the bay, in black ink. dimensions 30 cm wide × 35 cm high.
                     <lb/>dipinto of a bird, located in the lower right quadrant of the back wall of Bay 25. The bird, pos- sibly a dove, is drawn in thick black lines in profile, turned toward the right. It has a pointed beak, short crown, and a long and sinuous neck. The right, leaf-shaped wing is prominently displayed and constitutes the lower outline of the figure. a line runs at its center, schematically suggesting the feathers’ orientation. The tail feathers are barely indicated by two thicker lines. The bird has a very elongated and thin thigh, which terminates in a large triangle-shaped claw.</support>
                             </supportDesc>
-                        </objectDesc>
+                        <layoutDesc>
+                                        <layout>TK Dimensions:
+                                            <dimensions>
+                                                <height unit="centimeter">TK</height>
+                                                <width unit="centimeter">TK</width>
+                                            </dimensions>
+                                        </layout>
+                                    </layoutDesc>
+ </objectDesc>
                     </physDesc>
                 <history>
                         <origin>

@@ -42,7 +42,15 @@
                     <lb/>In the upper right quadrant of the bay, in black ink. dimensions 9 cm wide × 9 cm high.
                     <lb/>dipinto of two human heads, possibly males, located on the back wall of Bay 20, in the upper right quadrant. This graffito is in very poor condition: large lacunae in the plaster and wide- spread fading make it difficult to identify the figures. to the left is a face, possibly in profile, looking to the right. The oval of the face and the wavy shoulder-length hair are the more rec- ognizable elements. The head to the right is fully frontal. Most of the details have disappeared; however, notable is the hairdo of curly hair on which lies a wreath.</support>
                             </supportDesc>
-                        </objectDesc>
+                        <layoutDesc>
+                                        <layout>TK Dimensions:
+                                            <dimensions>
+                                                <height unit="centimeter">TK</height>
+                                                <width unit="centimeter">TK</width>
+                                            </dimensions>
+                                        </layout>
+                                    </layoutDesc>
+ </objectDesc>
                     </physDesc>
                 <history>
                         <origin>

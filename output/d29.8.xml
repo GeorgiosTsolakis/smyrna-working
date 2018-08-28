@@ -42,7 +42,15 @@
                     <lb/>on the west face of pier a41, in black ink. dimensions overall 27 cm wide × 51 cm high; of the bird, 20 cm wide × 24 cm high.
                     <lb/>dipinto of a venatio scene, located on the western face of pier a41, looking into Bay 29. The drawing is very rudimentary and schematic. at the bottom is a bird in profile, turned to the right. The bird, possibly a parrot, has a large head and beak, short crown, and a short and squat neck. Its body is entirely covered by the right wing, leaf-shaped and with a long line running at the center identifying the primary and secondary feathers. The tail is short and delineated by a single, thick line. The thigh is short and thin, and the claws are made in two parallel lines drawn in foreshortening. above it, two rectangular features to the right, one decorated with vertical lines, might represent the nets used to capture birds during the hunts. to the left is a linear feature terminating in an oval, possibly a lasso also used for bird-hunting.</support>
                             </supportDesc>
-                        </objectDesc>
+                        <layoutDesc>
+                                        <layout>TK Dimensions:
+                                            <dimensions>
+                                                <height unit="centimeter">TK</height>
+                                                <width unit="centimeter">TK</width>
+                                            </dimensions>
+                                        </layout>
+                                    </layoutDesc>
+ </objectDesc>
                     </physDesc>
                 <history>
                         <origin>

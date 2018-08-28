@@ -40,7 +40,15 @@
                             <supportDesc>
                                 <support>on the west face of the pier. 125 cm from floor, in an area 7 cm wide × 2 cm high. Incised. let- ters 1.6 cm high.</support>
                             </supportDesc>
-                        </objectDesc>
+                        <layoutDesc>
+                                        <layout>TK Dimensions:
+                                            <dimensions>
+                                                <height unit="centimeter">TK</height>
+                                                <width unit="centimeter">TK</width>
+                                            </dimensions>
+                                        </layout>
+                                    </layoutDesc>
+ </objectDesc>
                     </physDesc>
                 <history>
                         <origin>

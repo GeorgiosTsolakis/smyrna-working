@@ -40,7 +40,15 @@
                             <supportDesc>
                                 <support>These inscriptions occupy a large box divided by a horizontal line. Its right edge is 16 cm from the right of the bay; its top is broken off; its bottom is 1.2 m above the bench. The width is not fully preserved but was greater than 55 cm. The height of the top box is &gt; 34 cm. The height of the bottom box is 30 cm. detached, irregular rounded majuscule letters 2–3 cm high in waver- ing lines, representing two or more hands.</support>
                             </supportDesc>
-                        </objectDesc>
+                        <layoutDesc>
+                                        <layout>TK Dimensions:
+                                            <dimensions>
+                                                <height unit="centimeter">TK</height>
+                                                <width unit="centimeter">TK</width>
+                                            </dimensions>
+                                        </layout>
+                                    </layoutDesc>
+ </objectDesc>
                     </physDesc>
                 <history>
                         <origin>

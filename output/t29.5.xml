@@ -40,7 +40,15 @@
                             <supportDesc>
                                 <support>located 15 cm below T29.2 at a slant upward to the right. written on the right testicle of D29.7. large rough capital letters 5–6 cm high.</support>
                             </supportDesc>
-                        </objectDesc>
+                        <layoutDesc>
+                                        <layout>TK Dimensions:
+                                            <dimensions>
+                                                <height unit="centimeter">TK</height>
+                                                <width unit="centimeter">TK</width>
+                                            </dimensions>
+                                        </layout>
+                                    </layoutDesc>
+ </objectDesc>
                     </physDesc>
                 <history>
                         <origin>

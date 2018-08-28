@@ -42,7 +42,15 @@
                     <lb/>on the west face of pier a25, in black ink. dimensions 32 cm wide × 32 cm high.
                     <lb/>dipinto of a ship, possibly a corbita, located on the western face of pier a25, looking into Bay</support>
                             </supportDesc>
-                        </objectDesc>
+                        <layoutDesc>
+                                        <layout>TK Dimensions:
+                                            <dimensions>
+                                                <height unit="centimeter">TK</height>
+                                                <width unit="centimeter">TK</width>
+                                            </dimensions>
+                                        </layout>
+                                    </layoutDesc>
+ </objectDesc>
                     </physDesc>
                 <history>
                         <origin>

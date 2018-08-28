@@ -40,7 +40,15 @@
                             <supportDesc>
                                 <support>Just to the left of the lower part of the box of T25.1, 10 cm from the left edge. Just below it is the drawing of a youth’s head (D25.4), presumably the intended “speaker” of the word. detached letters ca. 2–2.5 cm high.</support>
                             </supportDesc>
-                        </objectDesc>
+                        <layoutDesc>
+                                        <layout>TK Dimensions:
+                                            <dimensions>
+                                                <height unit="centimeter">TK</height>
+                                                <width unit="centimeter">TK</width>
+                                            </dimensions>
+                                        </layout>
+                                    </layoutDesc>
+ </objectDesc>
                     </physDesc>
                 <history>
                         <origin>

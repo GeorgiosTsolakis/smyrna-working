@@ -40,7 +40,15 @@
                             <supportDesc>
                                 <support>at the right side, 1.54 m above ground level, abutting the right edge of the bay. area ca. 67 cm wide × 14 cm high, but possibly incomplete at left. The left part of the inscription and the right part are written in different hands, but it is not certain that they are unrelated. letters irregular, 4–10 cm high. The last four letters of line 1 and the last two letters of line 2 are written in a less cursive, larger, and heavier hand.</support>
                             </supportDesc>
-                        </objectDesc>
+                        <layoutDesc>
+                                        <layout>TK Dimensions:
+                                            <dimensions>
+                                                <height unit="centimeter">TK</height>
+                                                <width unit="centimeter">TK</width>
+                                            </dimensions>
+                                        </layout>
+                                    </layoutDesc>
+ </objectDesc>
                     </physDesc>
                 <history>
                         <origin>

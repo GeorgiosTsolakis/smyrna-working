@@ -40,7 +40,15 @@
                             <supportDesc>
                                 <support>Immediately above T12.4 and its drawing. area 37 cm wide × 10 cm high. Irregular, detached, informal letters 3–4 cm high.</support>
                             </supportDesc>
-                        </objectDesc>
+                        <layoutDesc>
+                                        <layout>TK Dimensions:
+                                            <dimensions>
+                                                <height unit="centimeter">TK</height>
+                                                <width unit="centimeter">TK</width>
+                                            </dimensions>
+                                        </layout>
+                                    </layoutDesc>
+ </objectDesc>
                     </physDesc>
                 <history>
                         <origin>

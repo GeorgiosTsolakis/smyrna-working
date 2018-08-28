@@ -43,7 +43,15 @@
                     <lb/>of three letters, only alpha is clearly visible.
                     <lb/>on the south face of the pier, at the top of the plaster. area 52 cm wide × 17 cm high; very faded letters.</support>
                             </supportDesc>
-                        </objectDesc>
+                        <layoutDesc>
+                                        <layout>TK Dimensions:
+                                            <dimensions>
+                                                <height unit="centimeter">TK</height>
+                                                <width unit="centimeter">TK</width>
+                                            </dimensions>
+                                        </layout>
+                                    </layoutDesc>
+ </objectDesc>
                     </physDesc>
                 <history>
                         <origin>

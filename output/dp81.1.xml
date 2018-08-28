@@ -43,7 +43,15 @@
                     <lb/>Graffito of a rosette, located on the southern face of pier a81, looking into the Basilica’s south- ern corridor. The motif comprises six petals, two of which are incomplete, and the preparatory circle into which the rosette was fitted. considering the precise outline of the circumference, the clearly marked center, and two arcs that defines some of the petals and that extend beyond the outline, it is evident that this is not a freehand graffito, but rather it was made with a tracing tool, such as a compass. see also graffiti DP81.2 and DP32.1.
                     <lb/>similar rosettes, some incised with the aid of a compass, others not, are common in pompeii, delos, and in the domus tiberiana. for the sake of brevity, I will mention here a few examples from each site (a complete catalogue can be found in langner 2001).  similar to the rosette in smyrna is the graffito on one of the columns of the “Grande palestra” (Maulucci vivolo 1993: 64–5). even closer in shape and technical execution are the rosette on one of the walls of the caserma dei Gladiatori and those on the external wall of the casa dei cei: Maulucci vivolo</support>
                             </supportDesc>
-                        </objectDesc>
+                        <layoutDesc>
+                                        <layout>TK Dimensions:
+                                            <dimensions>
+                                                <height unit="centimeter">TK</height>
+                                                <width unit="centimeter">TK</width>
+                                            </dimensions>
+                                        </layout>
+                                    </layoutDesc>
+ </objectDesc>
                     </physDesc>
                 <history>
                         <origin>

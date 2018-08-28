@@ -40,7 +40,15 @@
                             <supportDesc>
                                 <support>west face. area ca. 30 cm wide × 90 cm high. large detached letters with a modicum of style, 8–13 cm high. Below, a drawing (DP105.1).</support>
                             </supportDesc>
-                        </objectDesc>
+                        <layoutDesc>
+                                        <layout>TK Dimensions:
+                                            <dimensions>
+                                                <height unit="centimeter">TK</height>
+                                                <width unit="centimeter">TK</width>
+                                            </dimensions>
+                                        </layout>
+                                    </layoutDesc>
+ </objectDesc>
                     </physDesc>
                 <history>
                         <origin>

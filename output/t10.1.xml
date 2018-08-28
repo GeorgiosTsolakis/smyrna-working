@@ -40,7 +40,15 @@
                             <supportDesc>
                                 <support>In a tabula ansata ca. 26 cm wide × 26 cm high. scattered letters 2 cm high, with a theta or epsilon at the start of the first line.</support>
                             </supportDesc>
-                        </objectDesc>
+                        <layoutDesc>
+                                        <layout>TK Dimensions:
+                                            <dimensions>
+                                                <height unit="centimeter">TK</height>
+                                                <width unit="centimeter">TK</width>
+                                            </dimensions>
+                                        </layout>
+                                    </layoutDesc>
+ </objectDesc>
                     </physDesc>
                 <history>
                         <origin>

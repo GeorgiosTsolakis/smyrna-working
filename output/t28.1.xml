@@ -42,7 +42,15 @@
                     <lb/>about 1.50 m above ground level and 10 cm from the left edge of the bay. area ca 40 cm wide
                     <lb/>× 30 cm high, in box. detached capital letters 4–5 cm high.</support>
                             </supportDesc>
-                        </objectDesc>
+                        <layoutDesc>
+                                        <layout>TK Dimensions:
+                                            <dimensions>
+                                                <height unit="centimeter">TK</height>
+                                                <width unit="centimeter">TK</width>
+                                            </dimensions>
+                                        </layout>
+                                    </layoutDesc>
+ </objectDesc>
                     </physDesc>
                 <history>
                         <origin>

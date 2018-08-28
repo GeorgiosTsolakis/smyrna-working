@@ -42,7 +42,15 @@
                     <lb/>on the west face of pier a101, in black ink. dimensions upper 7 cm wide × 12 cm high; lower
                     <lb/>dipinto of two ships, located on the western face of pier a101, immediately above dipinto DP101.2. The upper ship has very minimal detailing, making its identification uncertain. It comprises a lower rectangular feature decorated with parallel vertical lines (the hull?) and two vertical lines departing from the two sides (the rigging?). The lower one is seen from the back, as if sailing away from the viewer. The motif is rendered in stylized geometric shapes. The ship’s hull is a long narrow rectangle, terminating to the right and to the left in two inverted triangles, the ship’s rudders. at the center, a very long vertical line, prolonged even below the keel, defines the mast. a short yard runs perpendicular to the mast at three quarters of its height. a short rectangular sail is attached to it. no rigging is visible.</support>
                             </supportDesc>
-                        </objectDesc>
+                        <layoutDesc>
+                                        <layout>TK Dimensions:
+                                            <dimensions>
+                                                <height unit="centimeter">TK</height>
+                                                <width unit="centimeter">TK</width>
+                                            </dimensions>
+                                        </layout>
+                                    </layoutDesc>
+ </objectDesc>
                     </physDesc>
                 <history>
                         <origin>

@@ -42,7 +42,15 @@
                     <lb/>In the center of the upper register, in black ink. dimensions 68 cm × 33.5 cm.
                     <lb/>dipinto of a ship sailing on port tack located in the upper register of the back wall of Bay 19, toward the center of the wall. It most probably represents a medium sized merchant vessel (a corbita?). The graffito is very damaged: the whole upper half of the ship with the yard and sail is missing, and only the lower portions of the mast and the rigging are visible. The hull is rounded and the keel is strongly rockered. no deck is visible, but toward the prow a light structure might suggest the presence of a forecastle. a line running along the hull, roughly at its middle, indi- cates the ship’s waterway. at the stern, the two πηδάλια, raised from the water, are rendered with two very thick parallel lines. roughly parallel to them is a series of one, possibly two, rows of oars (κῶπαι; at least 20 are still recognizable) drawn as long, slightly diagonal lines each terminating in a circle. neither the aplustre or the στόλος is identifiable.</support>
                             </supportDesc>
-                        </objectDesc>
+                        <layoutDesc>
+                                        <layout>TK Dimensions:
+                                            <dimensions>
+                                                <height unit="centimeter">TK</height>
+                                                <width unit="centimeter">TK</width>
+                                            </dimensions>
+                                        </layout>
+                                    </layoutDesc>
+ </objectDesc>
                     </physDesc>
                 <history>
                         <origin>

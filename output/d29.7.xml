@@ -42,7 +42,15 @@
                     <lb/>In the eastern half of the bay, in black ink. dimensions 52 cm wide × 52 cm high.
                     <lb/>large dipinto of a male sexual organ, located in the eastern half of the back wall of Bay 29. The corpus of the penis is drawn diagonally, with its tip at the upper right. It is composed of a diagonal line that terminates at the top in a large oval indicating the prepuce. The foreskin is further accentuated by a second concentric curved line. The corpus’ lower outline is defined by a short curved line that creates an overall teardrop shape. The two testicles are also placed diagonally. The outline of the right one, teardrop shaped, partially overlaps that of the corpus. The left testicle is barely sketched, with one broken line that suggests its position and size.</support>
                             </supportDesc>
-                        </objectDesc>
+                        <layoutDesc>
+                                        <layout>TK Dimensions:
+                                            <dimensions>
+                                                <height unit="centimeter">TK</height>
+                                                <width unit="centimeter">TK</width>
+                                            </dimensions>
+                                        </layout>
+                                    </layoutDesc>
+ </objectDesc>
                     </physDesc>
                 <history>
                         <origin>

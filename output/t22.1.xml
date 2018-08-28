@@ -42,7 +42,15 @@
                     <lb/>on the front (south) face of the pier (a34), about 1.25 m above ground level. area 16 cm wide
                     <lb/>× 7 cm high, incised in letters 1.5–2.5 cm high.</support>
                             </supportDesc>
-                        </objectDesc>
+                        <layoutDesc>
+                                        <layout>TK Dimensions:
+                                            <dimensions>
+                                                <height unit="centimeter">TK</height>
+                                                <width unit="centimeter">TK</width>
+                                            </dimensions>
+                                        </layout>
+                                    </layoutDesc>
+ </objectDesc>
                     </physDesc>
                 <history>
                         <origin>

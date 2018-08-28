@@ -40,7 +40,15 @@
                             <supportDesc>
                                 <support>on the face of the pier at left (pier a53). Incised. 159 cm from floor. on the first layer of plaster. large letters, 1.8–3 cm high. small letters, 0.5 cm high.</support>
                             </supportDesc>
-                        </objectDesc>
+                        <layoutDesc>
+                                        <layout>TK Dimensions:
+                                            <dimensions>
+                                                <height unit="centimeter">TK</height>
+                                                <width unit="centimeter">TK</width>
+                                            </dimensions>
+                                        </layout>
+                                    </layoutDesc>
+ </objectDesc>
                     </physDesc>
                 <history>
                         <origin>

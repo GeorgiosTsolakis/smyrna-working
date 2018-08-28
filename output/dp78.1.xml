@@ -43,7 +43,15 @@
                     <lb/>Graffito of two ships, located on the western face of pier a78. Both ships are incomplete, as the plaster has fallen off most of the pier’s surface. The ship at the top is very schematic, so that it is impossible to discern the prow from the stern. The keel is rockered, and both prow and stern are missing the usual decorative finials (i.e., aplustre and cheniscus). The bulwark is slightly concave. a parallel line running above it might indicate the presence of an upper deck. The central mast is rendered in a thin vertical line. no oars, sail, or rigging are visible.
                     <lb/>The ship to the bottom is sailing on starboard tack. The keel is slightly rockered, and the stern is slightly raised but without an aplustre, while the prow is not visible due to a lacuna in the plaster. at the stern, the two rudders (πηδάλια) are reduced to two short diagonal lines. The central mast is extremely tall. no sails, rigging, or oars are visible.</support>
                             </supportDesc>
-                        </objectDesc>
+                        <layoutDesc>
+                                        <layout>TK Dimensions:
+                                            <dimensions>
+                                                <height unit="centimeter">TK</height>
+                                                <width unit="centimeter">TK</width>
+                                            </dimensions>
+                                        </layout>
+                                    </layoutDesc>
+ </objectDesc>
                     </physDesc>
                 <history>
                         <origin>

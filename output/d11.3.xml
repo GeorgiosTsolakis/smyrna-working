@@ -42,7 +42,15 @@
                     <lb/>In the upper right quadrant of the bay, in black ink. dimensions not recorded.
                     <lb/>dipinto of a gladiator, located in the upper right quadrant of the back wall of Bay 11. The lines are very faded, making the drawing very difficult to read. The figure, in three-quarter, is shown as advancing to the left, with the left leg stretched forward. The head seems to be covered by a brimmed helmet, while the upper part of the body is covered by a large shield that reaches down to the knees only. These two elements suggest that the gladiator might have been a provocator.</support>
                             </supportDesc>
-                        </objectDesc>
+                        <layoutDesc>
+                                        <layout>TK Dimensions:
+                                            <dimensions>
+                                                <height unit="centimeter">TK</height>
+                                                <width unit="centimeter">TK</width>
+                                            </dimensions>
+                                        </layout>
+                                    </layoutDesc>
+ </objectDesc>
                     </physDesc>
                 <history>
                         <origin>
