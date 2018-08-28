@@ -40,8 +40,19 @@
                             <supportDesc>
                                 <support>another inscription stands to the left and above it, to the left of the base of temple 1; probably by the same hand.</support>
                             </supportDesc>
-                        </objectDesc>
-                    </physDesc>
+                        <layoutDesc>
+                                        <layout>TK Dimensions:
+                                            <dimensions>
+                                                <height unit="centimeter">TK</height>
+                                                <width unit="centimeter">TK</width>
+                                            </dimensions>
+                                        </layout>
+                                    </layoutDesc>
+ </objectDesc>
+                    <handDesc>
+                                    <handNote>Letter heights: <height unit="centimeter" min="" max="" scope="letter">TK</height> cm high</handNote>
+                                </handDesc>
+ </physDesc>
                 <history>
                         <origin>
                             <origPlace>Smyrna</origPlace>

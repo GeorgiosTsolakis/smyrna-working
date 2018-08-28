@@ -40,8 +40,19 @@
                             <supportDesc>
                                 <support>on the east face, ca. 115 cm above ground level. area ca. 25 × 7 cm. Incised letters 5 cm high.</support>
                             </supportDesc>
-                        </objectDesc>
-                    </physDesc>
+                        <layoutDesc>
+                                        <layout>TK Dimensions:
+                                            <dimensions>
+                                                <height unit="centimeter">TK</height>
+                                                <width unit="centimeter">TK</width>
+                                            </dimensions>
+                                        </layout>
+                                    </layoutDesc>
+ </objectDesc>
+                    <handDesc>
+                                    <handNote>Letter heights: <height unit="centimeter" min="" max="" scope="letter">TK</height> cm high</handNote>
+                                </handDesc>
+ </physDesc>
                 <history>
                         <origin>
                             <origPlace>Smyrna</origPlace>

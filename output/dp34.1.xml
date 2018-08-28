@@ -42,8 +42,19 @@
                     <lb/>on the south face of pier a34, between Bays 22 and 23, incised. dimensions 5 cm diameter.
                     <lb/>Graffito of two circles located on the southern face of pier a34, between Bay 22 and Bay 23, looking into the Basilica’s north corridor. The circles are plain, with no other decoration inside or around them. considering their regular shape and identical size, they were certainly incised with the help of a compass.</support>
                             </supportDesc>
-                        </objectDesc>
-                    </physDesc>
+                        <layoutDesc>
+                                        <layout>TK Dimensions:
+                                            <dimensions>
+                                                <height unit="centimeter">TK</height>
+                                                <width unit="centimeter">TK</width>
+                                            </dimensions>
+                                        </layout>
+                                    </layoutDesc>
+ </objectDesc>
+                    <handDesc>
+                                    <handNote>Letter heights: <height unit="centimeter" min="" max="" scope="letter">TK</height> cm high</handNote>
+                                </handDesc>
+ </physDesc>
                 <history>
                         <origin>
                             <origPlace>Smyrna</origPlace>

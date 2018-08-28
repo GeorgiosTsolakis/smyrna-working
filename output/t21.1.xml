@@ -40,8 +40,19 @@
                             <supportDesc>
                                 <support>In a tabula ansata, 28 cm wide × 16 cm high. large block capitals, 8 cm high.</support>
                             </supportDesc>
-                        </objectDesc>
-                    </physDesc>
+                        <layoutDesc>
+                                        <layout>TK Dimensions:
+                                            <dimensions>
+                                                <height unit="centimeter">TK</height>
+                                                <width unit="centimeter">TK</width>
+                                            </dimensions>
+                                        </layout>
+                                    </layoutDesc>
+ </objectDesc>
+                    <handDesc>
+                                    <handNote>Letter heights: <height unit="centimeter" min="" max="" scope="letter">TK</height> cm high</handNote>
+                                </handDesc>
+ </physDesc>
                 <history>
                         <origin>
                             <origPlace>Smyrna</origPlace>

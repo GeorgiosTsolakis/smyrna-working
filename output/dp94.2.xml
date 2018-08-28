@@ -42,8 +42,19 @@
                     <lb/>on the west face of pier a94, in black and red ink. dimensions 34 cm wide × 40 cm high.
                     <lb/>dipinto of a ship, located on the western face of pier a94. only the upper part of the vessel is still extant, as the plaster below has detached from the wall. still visible are the red sail, deco- rated with a checkerboard motif, the red horizontal yard, and the upper portion of the black mast.</support>
                             </supportDesc>
-                        </objectDesc>
-                    </physDesc>
+                        <layoutDesc>
+                                        <layout>TK Dimensions:
+                                            <dimensions>
+                                                <height unit="centimeter">TK</height>
+                                                <width unit="centimeter">TK</width>
+                                            </dimensions>
+                                        </layout>
+                                    </layoutDesc>
+ </objectDesc>
+                    <handDesc>
+                                    <handNote>Letter heights: <height unit="centimeter" min="" max="" scope="letter">TK</height> cm high</handNote>
+                                </handDesc>
+ </physDesc>
                 <history>
                         <origin>
                             <origPlace>Smyrna</origPlace>

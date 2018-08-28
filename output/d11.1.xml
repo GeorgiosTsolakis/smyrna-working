@@ -42,8 +42,19 @@
                     <lb/>In the center, right half, of the bay, in black and red ink. dimensions 73 cm wide × 38.5 cm high. published as Bay 11-t22 in pomey 2006: 330–1, fig. 22.
                     <lb/>dipinto of the hull of a ship sailing on starboard tack, located in the right half of the back wall of Bay 11, toward the center. while no traces are left of the mast, yard, or sails, the hull is clearly defined by a distinct red line used for the overall outline. The ship’s body is colored in with a pattern of large x-shaped marks that become smaller and closer toward the prow, where they create a checkerboard motif that defines a raised platform. This structure, interpretable as a forecastle formed of crossed spars, must have stretched all the way to the mast, but it is now faded. no oars or oarports are visible, and the keel is flat. above the prow is a zigzag motif in black, not outlined in red like the rest of the dipinto, indicating a later addition or the artist’s afterthought. It can be identified as a stylized στόλος, with the ἀκροστόλιον possibly meant to represent a swan’s neck. The stern is very high and straight, as in some representations of cor- bitae onerariae of the period.</support>
                             </supportDesc>
-                        </objectDesc>
-                    </physDesc>
+                        <layoutDesc>
+                                        <layout>TK Dimensions:
+                                            <dimensions>
+                                                <height unit="centimeter">TK</height>
+                                                <width unit="centimeter">TK</width>
+                                            </dimensions>
+                                        </layout>
+                                    </layoutDesc>
+ </objectDesc>
+                    <handDesc>
+                                    <handNote>Letter heights: <height unit="centimeter" min="" max="" scope="letter">TK</height> cm high</handNote>
+                                </handDesc>
+ </physDesc>
                 <history>
                         <origin>
                             <origPlace>Smyrna</origPlace>

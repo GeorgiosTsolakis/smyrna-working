@@ -42,8 +42,19 @@
                     <lb/>In the lower right quadrant of the bay, in black ink. dimensions 14 cm wide × 32 cm high.
                     <lb/>very schematic dipinto of a human bust, possibly a veiled male, located in the lower right quadrant of the back wall of Bay 8. The figure is in profile toward the left with exaggerated facial features. a very large oval eye and a long, rectangular, and prominent nose are placed over a small opened mouth with a triangular upper lip. The chin is quite pronounced and the elongated neck sits over small and drooping shoulders. There are no clear indications of hair: a short and almost vertical line starting near the eye might suggest the presence of a veil whose flaps flow down at the two sides of the neck.</support>
                             </supportDesc>
-                        </objectDesc>
-                    </physDesc>
+                        <layoutDesc>
+                                        <layout>TK Dimensions:
+                                            <dimensions>
+                                                <height unit="centimeter">TK</height>
+                                                <width unit="centimeter">TK</width>
+                                            </dimensions>
+                                        </layout>
+                                    </layoutDesc>
+ </objectDesc>
+                    <handDesc>
+                                    <handNote>Letter heights: <height unit="centimeter" min="" max="" scope="letter">TK</height> cm high</handNote>
+                                </handDesc>
+ </physDesc>
                 <history>
                         <origin>
                             <origPlace>Smyrna</origPlace>

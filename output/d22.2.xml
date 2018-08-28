@@ -42,8 +42,19 @@
                     <lb/>In the western half of the bay, in black ink. dimensions 38 cm wide × 49 cm high.
                     <lb/>dipinto of a gladiatorial combat, located in the western half of the back wall of Bay 22, toward the middle. The drawing is damaged by a very large lacuna at the right half, so that only the gladiator to the left is still preserved. he is drawn in three-quarter, his head and body turned toward the right. The head of the gladiator is completely covered by a tight fitting, visored hel- met. The chest is protected by a semicircular breastplate. The right arm is bent forward: he is probably holding his weapon, but the lines here are almost completely faded.  to the right are a few traces of the other figure: a rectangular shield and the brim of the helmet protecting the neck. The lower half of the body of both men is missing (and probably was never drawn). con- sidering the secure identification of the left gladiator as a provocator, the scene can be identified as a combat between provocatores.</support>
                             </supportDesc>
-                        </objectDesc>
-                    </physDesc>
+                        <layoutDesc>
+                                        <layout>TK Dimensions:
+                                            <dimensions>
+                                                <height unit="centimeter">TK</height>
+                                                <width unit="centimeter">TK</width>
+                                            </dimensions>
+                                        </layout>
+                                    </layoutDesc>
+ </objectDesc>
+                    <handDesc>
+                                    <handNote>Letter heights: <height unit="centimeter" min="" max="" scope="letter">TK</height> cm high</handNote>
+                                </handDesc>
+ </physDesc>
                 <history>
                         <origin>
                             <origPlace>Smyrna</origPlace>

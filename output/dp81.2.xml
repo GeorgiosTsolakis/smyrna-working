@@ -42,8 +42,19 @@
                     <lb/>on the south face of pier a81, incised. diameter of each circle 18 cm.
                     <lb/>Graffito of four interlocking circles, located on the southern face of pier a81, looking into the Basilica’s southern corridor. The graffito is partially covered by the buttressing structure added to the pier in the latest phase of the basilica’s occupation. still visible are four incised circles, drawn with the help of a compass: the centers of the two fully preserved circles are clearly marked and their circumferences are identical. They were most probably incised as guidelines for the insertions of rosette motifs (see graffiti DP81.1 and DP32.1).</support>
                             </supportDesc>
-                        </objectDesc>
-                    </physDesc>
+                        <layoutDesc>
+                                        <layout>TK Dimensions:
+                                            <dimensions>
+                                                <height unit="centimeter">TK</height>
+                                                <width unit="centimeter">TK</width>
+                                            </dimensions>
+                                        </layout>
+                                    </layoutDesc>
+ </objectDesc>
+                    <handDesc>
+                                    <handNote>Letter heights: <height unit="centimeter" min="" max="" scope="letter">TK</height> cm high</handNote>
+                                </handDesc>
+ </physDesc>
                 <history>
                         <origin>
                             <origPlace>Smyrna</origPlace>

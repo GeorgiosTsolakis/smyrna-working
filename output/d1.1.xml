@@ -42,8 +42,19 @@
                     <lb/>east face of pier a11, in black Ink. dimensions 23 cm wide × 40 cm high.
                     <lb/>dipinto of the bust of a gladiator located at the eastern face of pier a11, looking into Bay 1. The ink is mostly faded. The bust, seen from behind, is drawn in three-quarter, turned to the left. The image can be identified as a large crested gladiatorial helmet and a breastplate that covers also part of the back. The dipinto was probably meant to be a close-up of the gladiator depicted in D1.2.</support>
                             </supportDesc>
-                        </objectDesc>
-                    </physDesc>
+                        <layoutDesc>
+                                        <layout>TK Dimensions:
+                                            <dimensions>
+                                                <height unit="centimeter">TK</height>
+                                                <width unit="centimeter">TK</width>
+                                            </dimensions>
+                                        </layout>
+                                    </layoutDesc>
+ </objectDesc>
+                    <handDesc>
+                                    <handNote>Letter heights: <height unit="centimeter" min="" max="" scope="letter">TK</height> cm high</handNote>
+                                </handDesc>
+ </physDesc>
                 <history>
                         <origin>
                             <origPlace>Smyrna</origPlace>

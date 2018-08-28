@@ -40,8 +40,19 @@
                             <supportDesc>
                                 <support>at ca. 1.56 m from the top of the bench and 30 cm from the left side. area ca. 30 cm wide × 18 cm high. Irregular detached majuscule letters of line 1 are 3–4 cm high; those of line 2, 4–6 cm high. not enough survives of line 3 to measure.</support>
                             </supportDesc>
-                        </objectDesc>
-                    </physDesc>
+                        <layoutDesc>
+                                        <layout>TK Dimensions:
+                                            <dimensions>
+                                                <height unit="centimeter">TK</height>
+                                                <width unit="centimeter">TK</width>
+                                            </dimensions>
+                                        </layout>
+                                    </layoutDesc>
+ </objectDesc>
+                    <handDesc>
+                                    <handNote>Letter heights: <height unit="centimeter" min="" max="" scope="letter">TK</height> cm high</handNote>
+                                </handDesc>
+ </physDesc>
                 <history>
                         <origin>
                             <origPlace>Smyrna</origPlace>

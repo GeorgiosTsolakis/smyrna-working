@@ -44,8 +44,19 @@
                     <lb/>size of his upper torso, the tight loincloth (subligaculum) revealing the contours of the buttocks, and the lines at his waist indicating a balteus. a helmet with a stylized element on top (a poorly rendered crest and fish?) protects his head, while at his left, partially covered by the body, is visible the outline of a long shield, possibly a scutum. The man’s left leg is visibly larger than the right one, and it is drawn in a thicker line, suggesting the presence of a greave, a customary accessory for a murmillo.
                     <lb/>similar pose and attributes can be found in one graffito from the theater of aphrodisias (lang- ner 2001: no. 761, dated to late antiquity) and another one from the paedagogium of the domus tiberiana (solin and Itkonen-Kaila, eds. 1966: no. 97, p. 133).</support>
                             </supportDesc>
-                        </objectDesc>
-                    </physDesc>
+                        <layoutDesc>
+                                        <layout>TK Dimensions:
+                                            <dimensions>
+                                                <height unit="centimeter">TK</height>
+                                                <width unit="centimeter">TK</width>
+                                            </dimensions>
+                                        </layout>
+                                    </layoutDesc>
+ </objectDesc>
+                    <handDesc>
+                                    <handNote>Letter heights: <height unit="centimeter" min="" max="" scope="letter">TK</height> cm high</handNote>
+                                </handDesc>
+ </physDesc>
                 <history>
                         <origin>
                             <origPlace>Smyrna</origPlace>

@@ -46,8 +46,19 @@
                     <lb/>The use of the mappa in depictions of high officials is also well attested in large size statues of proconsuls, like the sixth-century marble statue of stephanos, proconsul of ephesos, found in the street of the curetes and now at the selçuk Museum in ephesos, or the statues of pytheas and palmatus found, respectively, in the bouleuterion and in the west colonnade of the tetra- stoon square at aphrodisias, both dated to the late fifth century. These comparisons, together with some stylistic traits of the smyrna dipinto, seem to suggest a dating of the dipinto to the late fourth–early fifth century CE.
                     <lb/>Basic information on the ivory diptychs may be found in eastmond 2010 and olovsdotter 2011. for a use of the diptychs also by senators see engemann 2008. on the proconsular statues see smith 1999: 167–9.</support>
                             </supportDesc>
-                        </objectDesc>
-                    </physDesc>
+                        <layoutDesc>
+                                        <layout>TK Dimensions:
+                                            <dimensions>
+                                                <height unit="centimeter">TK</height>
+                                                <width unit="centimeter">TK</width>
+                                            </dimensions>
+                                        </layout>
+                                    </layoutDesc>
+ </objectDesc>
+                    <handDesc>
+                                    <handNote>Letter heights: <height unit="centimeter" min="" max="" scope="letter">TK</height> cm high</handNote>
+                                </handDesc>
+ </physDesc>
                 <history>
                         <origin>
                             <origPlace>Smyrna</origPlace>

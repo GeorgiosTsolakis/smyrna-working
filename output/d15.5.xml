@@ -43,8 +43,19 @@
                     <lb/>dipinto of a gladiator, located in the upper left quadrant of the back wall of Bay 14. The man, depicted in a three-quarter view, has his back toward the viewer. only the upper portion of the body, down to the hips, is visible, while the lower half is completely effaced. The gladiator is portrayed in the act of stretching his right arm forward. he holds a short sword, whose con- tours are now almost entirely faded. at his waist a balteus is recognizable, and to his left side is a tall scutum. The crest on the helmet and the long flange protecting the neck indicate that the gladiator is probably a secutor.
                     <lb/>The iconography of this helmet is typical of gladiatorial reliefs from smyrna, as demonstrated by a very close parallel in a funerary stele from smyrna: robert 1940: 203 no. 226.</support>
                             </supportDesc>
-                        </objectDesc>
-                    </physDesc>
+                        <layoutDesc>
+                                        <layout>TK Dimensions:
+                                            <dimensions>
+                                                <height unit="centimeter">TK</height>
+                                                <width unit="centimeter">TK</width>
+                                            </dimensions>
+                                        </layout>
+                                    </layoutDesc>
+ </objectDesc>
+                    <handDesc>
+                                    <handNote>Letter heights: <height unit="centimeter" min="" max="" scope="letter">TK</height> cm high</handNote>
+                                </handDesc>
+ </physDesc>
                 <history>
                         <origin>
                             <origPlace>Smyrna</origPlace>

@@ -42,8 +42,19 @@
                     <lb/>on the bevel to the right of the south side, at the same height as TP100.1 and TP100.2. on the lower layer of plaster. possibly two separate inscriptions but in the same hand. area 15 cm wide
                     <lb/>× 10 cm high, starting at 12 cm from the left edge. detached letters 1 cm high.</support>
                             </supportDesc>
-                        </objectDesc>
-                    </physDesc>
+                        <layoutDesc>
+                                        <layout>TK Dimensions:
+                                            <dimensions>
+                                                <height unit="centimeter">TK</height>
+                                                <width unit="centimeter">TK</width>
+                                            </dimensions>
+                                        </layout>
+                                    </layoutDesc>
+ </objectDesc>
+                    <handDesc>
+                                    <handNote>Letter heights: <height unit="centimeter" min="" max="" scope="letter">TK</height> cm high</handNote>
+                                </handDesc>
+ </physDesc>
                 <history>
                         <origin>
                             <origPlace>Smyrna</origPlace>

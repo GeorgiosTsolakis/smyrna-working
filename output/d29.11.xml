@@ -43,8 +43,19 @@
                     <lb/>dipinto located on the eastern face of pier a40, looking into Bay 29. It comprises one gladiator and two palm branches, all partially damaged by lacunae in the plaster. The branch at the top is characterized by a long vertical line, the branch’s rachis, drawn in a thick streak. from this central line depart, at both sides, two corresponding sets of thirteen diagonal lines, the leaflets, progressively shorter at the top where the tip of the branch is situated. two short horizontal lines, one at the top and one at the bottom, complete the design.
                     <lb/>to the left of the branch is a very schematic depiction of a gladiator, of which only a visored helmet with a horizontal neck-guard and a large rectangular shield are visible. he can ten- tatively be identified as a provocator. at the bottom is a second palm branch composed of a central vertical line, from which departs a series of short diagonal lines (eight are still visible) alternately to the right and the left of the central axis. The palm branches are most certainly to be understood as complementing the image of the gladiator, who is thus to be considered as victorious.</support>
                             </supportDesc>
-                        </objectDesc>
-                    </physDesc>
+                        <layoutDesc>
+                                        <layout>TK Dimensions:
+                                            <dimensions>
+                                                <height unit="centimeter">TK</height>
+                                                <width unit="centimeter">TK</width>
+                                            </dimensions>
+                                        </layout>
+                                    </layoutDesc>
+ </objectDesc>
+                    <handDesc>
+                                    <handNote>Letter heights: <height unit="centimeter" min="" max="" scope="letter">TK</height> cm high</handNote>
+                                </handDesc>
+ </physDesc>
                 <history>
                         <origin>
                             <origPlace>Smyrna</origPlace>

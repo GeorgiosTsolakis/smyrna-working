@@ -42,8 +42,19 @@
                     <lb/>on the south face of pier a112, incised. dimensions 29 cm wide × 36 cm high.
                     <lb/>Graffito of a ship, located on the southern face of pier a112, looking into the Basilica’s southern corridor. The sails of the ship are placed immediately above the upper ship in graffito DP112.1, while the hull is in between those two vessels (see graffito DP112.1). The hull of this ship is very schematic; it is thus difficult to discern the prow from the stern. a short diagonal line to the left might suggest the presence of a rudder, in which case the ship would be sailing on port tack. The keel is mostly flat, and the prow is raised, culminating in a cheniscus (ἀκροστόλιον) curv- ing inward. no oars are visible. a large lacuna above the hull has destroyed most of the lower part of the mast. The mast’s upper half is composed of a thin vertical line that is crossed at a 90-degree angle by a long and straight yard. at the yard’s extremities begin two diagonal lines that converge at the top of the mast: they are the χηροῦχοι, ropes that allowed hoisting the yard and the sail to the required height. The sail, in the shape of an inverted triangle, is decorated with rows of checkerboard motifs that are meant to depict the folds of the sail and the rigging.</support>
                             </supportDesc>
-                        </objectDesc>
-                    </physDesc>
+                        <layoutDesc>
+                                        <layout>TK Dimensions:
+                                            <dimensions>
+                                                <height unit="centimeter">TK</height>
+                                                <width unit="centimeter">TK</width>
+                                            </dimensions>
+                                        </layout>
+                                    </layoutDesc>
+ </objectDesc>
+                    <handDesc>
+                                    <handNote>Letter heights: <height unit="centimeter" min="" max="" scope="letter">TK</height> cm high</handNote>
+                                </handDesc>
+ </physDesc>
                 <history>
                         <origin>
                             <origPlace>Smyrna</origPlace>

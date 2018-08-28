@@ -40,8 +40,19 @@
                             <supportDesc>
                                 <support>at the top of the face of pier a34, just below the breaking off of the plaster, three lines occupy- ing an area 30 cm wide × 10 cm high are incised in letters 2 cm high; also some large red letters not yet read. we can offer a text for only line 3.</support>
                             </supportDesc>
-                        </objectDesc>
-                    </physDesc>
+                        <layoutDesc>
+                                        <layout>TK Dimensions:
+                                            <dimensions>
+                                                <height unit="centimeter">TK</height>
+                                                <width unit="centimeter">TK</width>
+                                            </dimensions>
+                                        </layout>
+                                    </layoutDesc>
+ </objectDesc>
+                    <handDesc>
+                                    <handNote>Letter heights: <height unit="centimeter" min="" max="" scope="letter">TK</height> cm high</handNote>
+                                </handDesc>
+ </physDesc>
                 <history>
                         <origin>
                             <origPlace>Smyrna</origPlace>

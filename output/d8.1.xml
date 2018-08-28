@@ -42,8 +42,19 @@
                     <lb/>In the upper register of the bay, in black ink. dimensions 110 cm wide × 45.5 cm high.
                     <lb/>dipinto of a male sexual organ located on the back wall of Bay 8, toward the top. The corpus of the penis, damaged by a large lacuna toward the center, is rendered by two horizontal and roughly parallel lines. The area of the epithelium is indicated by a short diagonal line. The two testicles, drawn roughly as ovals, are placed to the sides of the corpus and are very close in size.</support>
                             </supportDesc>
-                        </objectDesc>
-                    </physDesc>
+                        <layoutDesc>
+                                        <layout>TK Dimensions:
+                                            <dimensions>
+                                                <height unit="centimeter">TK</height>
+                                                <width unit="centimeter">TK</width>
+                                            </dimensions>
+                                        </layout>
+                                    </layoutDesc>
+ </objectDesc>
+                    <handDesc>
+                                    <handNote>Letter heights: <height unit="centimeter" min="" max="" scope="letter">TK</height> cm high</handNote>
+                                </handDesc>
+ </physDesc>
                 <history>
                         <origin>
                             <origPlace>Smyrna</origPlace>

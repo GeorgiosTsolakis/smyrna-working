@@ -43,8 +43,19 @@
                     <lb/>dipinto of the upper half of a human figure, seen frontally, located on the western face of pier a74. The image was later partially obliterated by a large dipinto of a ship, of which traces of a very tall ἀκροστόλιον are the only elements still extant. The figure, very crudely made, can be identified as a gladiator, possibly a thraex. recognizable is the tall helmet with the head of the griffon seen frontally, a crescent-shaped crest, and large brims. The rather thin arms are at the side of the body, of which only the upper part of the bust is visible. no weapon or shield is visible.
                     <lb/>for a possible comparison of a gladiator with a similar helmet surmounted by a griffon from a gravestone found in smyrna, see petzl 1974: 293, no. 12.</support>
                             </supportDesc>
-                        </objectDesc>
-                    </physDesc>
+                        <layoutDesc>
+                                        <layout>TK Dimensions:
+                                            <dimensions>
+                                                <height unit="centimeter">TK</height>
+                                                <width unit="centimeter">TK</width>
+                                            </dimensions>
+                                        </layout>
+                                    </layoutDesc>
+ </objectDesc>
+                    <handDesc>
+                                    <handNote>Letter heights: <height unit="centimeter" min="" max="" scope="letter">TK</height> cm high</handNote>
+                                </handDesc>
+ </physDesc>
                 <history>
                         <origin>
                             <origPlace>Smyrna</origPlace>

@@ -43,8 +43,19 @@
                     <lb/>dipinto of a ship sailing on starboard tack located in the upper left quadrant of the back wall of Bay 6. The ink has mostly disappeared: only faint traces of the strokes that defined the mast, the yard, and one sail are still visible, too ephemeral to allow any further description. The black lines in the right half of the dipinto are the best preserved, so that the stern of the ship is still recognizable. It is convex in shape and raised from the bulwark; a rectangular quarter- deck is positioned right above the stern, while a low ἄφλαστον, geometric and very simplified, terminates its upper portion. two rudders (πηδάλιοι) with large rectangular blades appear from both sides of the ship, but no other oars are visible. The ship’s prow, with an overly con- cave profile, is still somewhat visible at the left end of the dipinto. The black ink has for the most part disappeared: the lines are identifiable only from the discoloration of the portions of plaster that were originally covered by the color. The prow is surmounted by a rounded στόλος crowned by a spiral-shaped ἀκροστόλιον. a three-bladed ἔμβολος protrudes from the bottom of the prow, suggesting that the drawing was meant to represent a military vessel. considering the rather small size of the vessel, the dipinto was most probably meant to depict a navis rostrata (or liburna), one of the most common military vessels of the imperial period.
                     <lb/>a close comparison for the spiral-shaped acrostolium and the three-bladed rostrum in a sec- ond century CE sarcophagus from panderma. see pfuhl and Möbius 1977: vol. 1: 113, no. 283.</support>
                             </supportDesc>
-                        </objectDesc>
-                    </physDesc>
+                        <layoutDesc>
+                                        <layout>TK Dimensions:
+                                            <dimensions>
+                                                <height unit="centimeter">TK</height>
+                                                <width unit="centimeter">TK</width>
+                                            </dimensions>
+                                        </layout>
+                                    </layoutDesc>
+ </objectDesc>
+                    <handDesc>
+                                    <handNote>Letter heights: <height unit="centimeter" min="" max="" scope="letter">TK</height> cm high</handNote>
+                                </handDesc>
+ </physDesc>
                 <history>
                         <origin>
                             <origPlace>Smyrna</origPlace>

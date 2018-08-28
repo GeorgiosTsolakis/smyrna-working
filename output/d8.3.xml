@@ -42,8 +42,19 @@
                     <lb/>In the center of the bay, in black ink. dimensions 86 cm wide × 38 cm high.
                     <lb/>dipinto of a ship located on the back wall of Bay 8, toward the center. The drawing is partially obliterated by other graffiti, with the result that its full outline is not completely reconstruct- ible. The ship, sailing on port tack, has a concave keel terminating in a very high prow with a short, pointed στόλος. at the stern are visible two short πηδάλια, filled in with black color. no indication of mast, sails, or oars is visible.</support>
                             </supportDesc>
-                        </objectDesc>
-                    </physDesc>
+                        <layoutDesc>
+                                        <layout>TK Dimensions:
+                                            <dimensions>
+                                                <height unit="centimeter">TK</height>
+                                                <width unit="centimeter">TK</width>
+                                            </dimensions>
+                                        </layout>
+                                    </layoutDesc>
+ </objectDesc>
+                    <handDesc>
+                                    <handNote>Letter heights: <height unit="centimeter" min="" max="" scope="letter">TK</height> cm high</handNote>
+                                </handDesc>
+ </physDesc>
                 <history>
                         <origin>
                             <origPlace>Smyrna</origPlace>

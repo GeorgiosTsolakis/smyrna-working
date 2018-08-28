@@ -42,8 +42,19 @@
                     <lb/>In the lower left quadrant of the bay, in black ink. dimensions 5 cm wide × 6.5 cm high.
                     <lb/>very small and schematic dipinto of a human figure located in the lower left quadrant of the back wall of Bay 8. conventionally referred to as a “stick figure.” Most of the black color defin- ing the figure’s body has faded, and only a roughly oval head is still visible. The head is charac- terized by large oval eyes, a long straight nose, and a small and oval mouth tilted upward. no other details are recognizable.</support>
                             </supportDesc>
-                        </objectDesc>
-                    </physDesc>
+                        <layoutDesc>
+                                        <layout>TK Dimensions:
+                                            <dimensions>
+                                                <height unit="centimeter">TK</height>
+                                                <width unit="centimeter">TK</width>
+                                            </dimensions>
+                                        </layout>
+                                    </layoutDesc>
+ </objectDesc>
+                    <handDesc>
+                                    <handNote>Letter heights: <height unit="centimeter" min="" max="" scope="letter">TK</height> cm high</handNote>
+                                </handDesc>
+ </physDesc>
                 <history>
                         <origin>
                             <origPlace>Smyrna</origPlace>

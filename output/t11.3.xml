@@ -40,8 +40,19 @@
                             <supportDesc>
                                 <support>lower on the panel, below the ship drawing. Bottom of inscription ca. 90 cm from the ground, 64 cm from left edge. area 40 cm wide × 57 cm high. very irregular, rather cursive letters mainly 4–5 cm high. The inscription is very intermingled with drawing and it is not easy to tell what is letters and what is drawing, nor whether the letters all belong to a single inscription. remains of 9 lines in all.</support>
                             </supportDesc>
-                        </objectDesc>
-                    </physDesc>
+                        <layoutDesc>
+                                        <layout>TK Dimensions:
+                                            <dimensions>
+                                                <height unit="centimeter">TK</height>
+                                                <width unit="centimeter">TK</width>
+                                            </dimensions>
+                                        </layout>
+                                    </layoutDesc>
+ </objectDesc>
+                    <handDesc>
+                                    <handNote>Letter heights: <height unit="centimeter" min="" max="" scope="letter">TK</height> cm high</handNote>
+                                </handDesc>
+ </physDesc>
                 <history>
                         <origin>
                             <origPlace>Smyrna</origPlace>

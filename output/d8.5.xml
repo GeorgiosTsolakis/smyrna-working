@@ -42,8 +42,19 @@
                     <lb/>In the center of the lower register of the bay, in black ink. dimensions 14 cm wide × 13 cm high.
                     <lb/>very small and poorly preserved dipinto of a ship sailing on starboard tack located in the cen- ter of the back wall of Bay 8, toward the bottom. Both the mast (ἱστός) and the yard (κέρας) are drawn with single lines. above the yard is visible a structure that could be identified as the καρχήσιον, the ancient equivalent of a crow’s nest from which the sailors managed the sail, obtained a distant view, or discharged missiles. The sail (ἱστίον) stretches on both sides of the yard and is connected to the bulwark by two ropes (πόδες), which possibly indicate that the vessel’s stern is to the left. no other details of the bulwark or of the oars are visible. clearly identifiable are the brailing ropes connecting the sail to the hull.</support>
                             </supportDesc>
-                        </objectDesc>
-                    </physDesc>
+                        <layoutDesc>
+                                        <layout>TK Dimensions:
+                                            <dimensions>
+                                                <height unit="centimeter">TK</height>
+                                                <width unit="centimeter">TK</width>
+                                            </dimensions>
+                                        </layout>
+                                    </layoutDesc>
+ </objectDesc>
+                    <handDesc>
+                                    <handNote>Letter heights: <height unit="centimeter" min="" max="" scope="letter">TK</height> cm high</handNote>
+                                </handDesc>
+ </physDesc>
                 <history>
                         <origin>
                             <origPlace>Smyrna</origPlace>

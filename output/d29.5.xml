@@ -42,8 +42,19 @@
                     <lb/>In the lower left quadrant of the bay, in black ink. dimensions overall 18 cm wide × 13 cm high.
                     <lb/>very damaged dipinto of two heads in profile, located in the lower left quadrant of the back wall of Bay 29. Both are facing to the left. The head to the left is poorly preserved: the top is round and with no indication of hair. The neck, terminating in an inverted triangle, is quite elongated. a large almond-shaped eye is the only feature clearly distinguishable. The head to the right is slightly better preserved. a jeweled veil covers the top of the head (the jewels are rendered as lozenges), and the eye is round with clear indication of the eyebrow. The nose is pointed and the mouth possibly opened. The lower part of the graffito is badly damaged and illegible.</support>
                             </supportDesc>
-                        </objectDesc>
-                    </physDesc>
+                        <layoutDesc>
+                                        <layout>TK Dimensions:
+                                            <dimensions>
+                                                <height unit="centimeter">TK</height>
+                                                <width unit="centimeter">TK</width>
+                                            </dimensions>
+                                        </layout>
+                                    </layoutDesc>
+ </objectDesc>
+                    <handDesc>
+                                    <handNote>Letter heights: <height unit="centimeter" min="" max="" scope="letter">TK</height> cm high</handNote>
+                                </handDesc>
+ </physDesc>
                 <history>
                         <origin>
                             <origPlace>Smyrna</origPlace>

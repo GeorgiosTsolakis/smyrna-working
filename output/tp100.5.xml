@@ -40,8 +40,19 @@
                             <supportDesc>
                                 <support>above TP100.1 and about 155 cm above ground level. area 42 cm wide × 11 cm high. Incised majuscule letters 6 cm (minimum) high in first line and 4 cm in second line. The plaster is broken above line 1, taking the tops of some letters. a cross-hatched pattern makes it difficult in line 1 to distinguish what are letters and what not.</support>
                             </supportDesc>
-                        </objectDesc>
-                    </physDesc>
+                        <layoutDesc>
+                                        <layout>TK Dimensions:
+                                            <dimensions>
+                                                <height unit="centimeter">TK</height>
+                                                <width unit="centimeter">TK</width>
+                                            </dimensions>
+                                        </layout>
+                                    </layoutDesc>
+ </objectDesc>
+                    <handDesc>
+                                    <handNote>Letter heights: <height unit="centimeter" min="" max="" scope="letter">TK</height> cm high</handNote>
+                                </handDesc>
+ </physDesc>
                 <history>
                         <origin>
                             <origPlace>Smyrna</origPlace>
