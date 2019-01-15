@@ -8,8 +8,10 @@
                 <title>TG2.1.: uncertain</title>
                 <respStmt>
                     <resp>Encoded in XML from original publication</resp>
-                        <name>Tom Elliott</name>
-                        <name>David M. Ratzan</name>
+                    <name>Tom Elliott</name>
+                    <name>David M. Ratzan</name>
+                    <name>Patrick J. Burns</name>
+                    <name>Georgios Tsolakis</name>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
