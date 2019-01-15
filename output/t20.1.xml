@@ -42,20 +42,21 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>at ca. 1.56 m from the top of the bench and 30 cm from the left side. area ca. 30 cm wide × 18 cm high. Irregular detached majuscule letters of line 1 are 3–4 cm high; those of line 2, 4–6 cm high. not enough survives of line 3 to measure.</support>
+                                <support>Bay 20 [= G27, between Piers A31 and A32]. At ca. 1.56 m from the top of the bench and 30 cm from the left side.</support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>TK Dimensions:
+                                <layout>Area:
                                             <dimensions>
-                                        <height unit="centimeter">TK</height>
-                                        <width unit="centimeter">TK</width>
+                                        <height unit="centimeter">18</height>
+                                        <width unit="centimeter">30</width>
                                     </dimensions>
                                 </layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Letter heights: <height unit="centimeter" min="" max=""
-                                    scope="letter">TK</height> cm high</handNote>
+                            <handNote>Irregular detached majuscule letters of line 1: <height unit="centimeter" min="3" max="4"
+                                scope="letter">3-4</height> cm high; those of line 2: <height unit="centimeter" min="4" max="6"
+                                    scope="letter">4-6</height> cm high. Not enough survives of line 3 to measure.</handNote>
                         </handDesc>
                     </physDesc>
                     <history>
@@ -77,21 +78,20 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb/>ὁ δεδω̣κ̣[ὼς] τὸ πνεῦμ̣[α]
-                    <lb/>̣ [
-                    <lb/>ΝΑΕ σοι ΠΑ  ΛΙΚΕ .[
-                    <lb/>ΝΕΙΤΗ εισιν   ̣  ̣  [̣
-                    <lb/>ΜΕ  ΑΤΩ  [
-                    <lb/>̣ ΗΣΑΝ  [</ab>
+<lb n="1"/><w lemma="ὁ">ὁ</w> <w lemma="δίδωμι">δεδ<unclear>ωκ</unclear><supplied reason="lost">ὼς</supplied></w>
+<lb n="2"/><w lemma="ὁ">τὸ</w> <w lemma="πνεῦμα">πνεῦ<unclear>μ</unclear><supplied reason="lost">α</supplied></w>
+<lb n="3"/><space quantity="5" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+                </ab>
             </div>
             <div type="translation">
-                <ab/>
+                <ab>“The one who gave the spirit . . .”</ab>
             </div>
             <div type="commentary">
-                <ab>“The one who gave the spirit . . .” 1–2. see introduction, p. 47. at 15 cm from the left side, its top 32 cm below the bottom of T20.1. area 40 cm wide × 32 cm high. clumsily made detached letters 4–6 cm high. It is not certain where the left edge of the inscription was. In line 1, perhaps ΠΑΛΛΙΚΕ.</ab>
+                <ab>1–2. Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 47.<lb/>
+                    3. Perhaps pi.</ab>
             </div>
             <div type="bibliography">
-                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): TK.</p>
+                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 213; Bagnall, R., Everyday Writing in the Graeco-Roman East (2011): 23; SEG 61.975.</p>
             </div>
         </body>
     </text>

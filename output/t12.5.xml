@@ -42,20 +42,20 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>Immediately above T12.4 and its drawing. area 37 cm wide × 10 cm high. Irregular, detached, informal letters 3–4 cm high.</support>
+                                <support>Bay 12 [= G18, between Piers A22 and A23]. Immediately above T12.4 and its drawing.</support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>TK Dimensions:
+                                <layout>Dimensions:
                                             <dimensions>
-                                        <height unit="centimeter">TK</height>
-                                        <width unit="centimeter">TK</width>
+                                        <height unit="centimeter">10</height>
+                                        <width unit="centimeter">37</width>
                                     </dimensions>
                                 </layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Letter heights: <height unit="centimeter" min="" max=""
-                                    scope="letter">TK</height> cm high</handNote>
+                            <handNote>Irregular, detached, informal letters <height unit="centimeter" min="3" max="4"
+                                    scope="letter">3-4</height> cm high</handNote>
                         </handDesc>
                     </physDesc>
                     <history>
@@ -77,17 +77,20 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb/>Θεαγένης
-                    <lb/>νεικητ(ής)</ab>
+                    <lb n="1"/><persName type="attested"><name nymRef="Θεαγένης" type="cognomen">Θεαγένης</name></persName>
+                    <lb n="2"/><space quantity="4" unit="character"/><w lemma="νεικητής"><expan>νεικητ<ex>ής</ex></expan></w>
+                </ab>
             </div>
             <div type="translation">
                 <ab>“Theagenes, victor!”</ab>
             </div>
             <div type="commentary">
-                <ab/>
+                <ab>
+                    1. <persName type="attested"><name nymRef="Θεαγένης" type="cognomen">Theagenes</name></persName>, the deified Thasian boxer and pankratiast, is the subject of Pausanias 6.11.2–9.  The name is very common throughout the Greek world, but its use here suggests that it might have been adopted by a professional boxer or pankratiast in order to associate himself with the luster of his namesake.
+                </ab>
             </div>
             <div type="bibliography">
-                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): TK.</p>
+                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 154-155; Bagnall, R., Everyday Writing in the Graeco-Roman East (2011): 16; SEG 61.961.</p>
             </div>
         </body>
     </text>

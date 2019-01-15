@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Tp78.2.: Memorial and greetings</title>
+                <title>Tp78.2.: Memorial and Greetings</title>
                 <respStmt>
                     <resp>Encoded in XML from original publication</resp>
                     <name>Tom Elliott</name>
@@ -42,20 +42,20 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>on the east face. Incised. 121 cm from floor, in an area 18 cm wide × 10 cm high. letters 0.9–1.5 cm high.</support>
+                                <support>Pier A78. On the east face. 121 cm from floor</support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>TK Dimensions:
+                                <layout>Incised. Area:
                                             <dimensions>
-                                        <height unit="centimeter">TK</height>
-                                        <width unit="centimeter">TK</width>
+                                        <height unit="centimeter">10</height>
+                                        <width unit="centimeter">18</width>
                                     </dimensions>
                                 </layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Letter heights: <height unit="centimeter" min="" max=""
-                                    scope="letter">TK</height> cm high</handNote>
+                            <handNote>Letter heights: <height unit="centimeter" min="0.9" max="1.5"
+                                    scope="letter">0.9-1.5</height> cm high</handNote>
                         </handDesc>
                     </physDesc>
                     <history>
@@ -77,17 +77,22 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb/>ἐμήσθη Χα̣[
-                    <lb/>τῆς καλῆς̣ κ̣υ̣λίας εὐτύχει Χαρίτων̣ μετ̣ὰ Ὑιείνου</ab>
+                    <lb n="1"/><w lemma="μιμνήσκω">ἐμήσθη</w> Χ<unclear>α</unclear><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><w lemma="ὁ">τῆς</w> <w lemma="καλός">καλῆ<unclear>ς</unclear></w> <w lemma="κυρία"><unclear>κυ</unclear>λίας</w>
+                    <lb n="3"/><w lemma="εὐτυχέω">εὐτύχει</w> <persName type="attested"><name nymRef="nametable.xml#Χαρίτων" type="cognomen">Χαρίτω<unclear>ν</unclear></name></persName>
+                    <lb n="4"/><w lemma="">με<unclear>τ</unclear>ὰ</w> <persName type="attested"><name nymRef="nametable.xml#Ὑγεῖνος" type="cognomen">Ὑιείνου</name></persName>
+                </ab>
             </div>
             <div type="translation">
-                <ab/>
+                <ab> “He remembered (e.g.) Charis the beautiful lady. Fare well, Chariton, with Hyginos.”</ab>
             </div>
             <div type="commentary">
-                <ab/>
+                <ab>1. Read <w lemma="μιμνήσκω">ἐμνήσθη</w>; we owe the reading to Angelos Chaniotis. It is most often construed with active meaning, taking a genitive object. What follows is presumably the beginning of the woman’s name; Χάρις or one of its derivatives, one supposes. This makes it attractive to take line 2 together with it. But there is then no stated subject: “He remembered (e.g.) Charis the beautiful lady.” The verb can also have passive meaning but should then have a nominative subject. Possibly the writer conflated the two constructions, but he may simply have omitted his own name.<lb/>
+                    2. Read <w lemma="κυρία">κυρίας</w>; cf. T20.3.<lb/>
+                    3–4. “Fare well, Chariton, with Hyginos.” The first iota in Ὑιείνου appears to have been corrected, so that it at present resembles a phi with faint central circle. It would be more attractive to take it as intended for gamma, but there is no sign of the needed horizontal stroke. Whatever the spelling, we take this as a phonetic spelling of <persName type="attested"><name nymRef="nametable.xml#Ὑγεῖνος" type="cognomen">Ὑγίνου</name></persName>.</ab>
             </div>
             <div type="bibliography">
-                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): TK.</p>
+                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 385-386.</p>
             </div>
         </body>
     </text>

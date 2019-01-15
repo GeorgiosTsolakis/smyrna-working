@@ -42,20 +42,19 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>Just to the left of the lower part of the box of T25.1, 10 cm from the left edge. Just below it is the drawing of a youth’s head (D25.4), presumably the intended “speaker” of the word. detached letters ca. 2–2.5 cm high.</support>
+                                <support>Bay 25 [= G32, between Piers A36 and A37]. Just to the left of the lower part of the box of T25.1, 10 cm from the left edge. Just below it is the drawing of a youth’s head (D25.4), presumably the intended “speaker” of the word.</support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>TK Dimensions:
+                                <layout>
                                             <dimensions>
-                                        <height unit="centimeter">TK</height>
-                                        <width unit="centimeter">TK</width>
+                                        <height unit="centimeter"></height>
+                                        <width unit="centimeter"></width>
                                     </dimensions>
                                 </layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Letter heights: <height unit="centimeter" min="" max=""
-                                    scope="letter">TK</height> cm high</handNote>
+                            <handNote>Detached letters: <height unit="centimeter" min="2" max="2.5" scope="letter">2-2.5</height> cm high</handNote>
                         </handDesc>
                     </physDesc>
                     <history>
@@ -77,18 +76,18 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb/>πυγίζομαι
-                    <lb/>ΕΤ̣[   ̣  ̣  ̣  ]ΤΑΣ
-                    <lb/>Ε[   ̣  ̣  ]   ̣ Λ  Λ</ab>
+                    <lb n="1"/><w lemma="πυγίζομαι">πυγίζομαι</w>
+                </ab>
             </div>
             <div type="translation">
                 <ab>“I am being buggered.”</ab>
             </div>
             <div type="commentary">
-                <ab>lsJ cites for the passive of this verb only SB 4.7452 (published by c. c. edgar, “a love charm from the fayoum,” BSAA 21 (1925) 42 ff.), where poseidonios asks that heronous be bound ὅπως μὴ βεινηθῇ, μὴ πυγισθῇ, μὴ λεικάσῃ, μηδὲν πρὸς ἡδονὴν ποιήσῃ ἄλλῳ ἀνδρί εἰ μὴ ἐμοὶ Ποσιδωνίῳ (lines 9–10): i.e., so that she may not experience vaginal intercourse, anal intercourse, or cunnilingus, nor give any pleasure to any man except him. centered above the large middle gap and largely lost in it, to the right of T25.1. The two partly preserved lines occupy an area ca. 50 cm wide × 25 cm high. large detached cursive-style letters 10–12 cm high.</ab>
+                <ab>LSJ cites for the passive of this verb only SB 4.7452 (published by C. C. Edgar, “A love charm from the Fayoum,” BSAA 21 (1925) 42 ff.), where Poseidonios asks that Heronous be bound ὅπως μὴ βεινηθῇ, μὴ πυγισθῇ, μὴ λεικάσῃ, μηδὲν πρὸς ἡδονὴν ποιήσῃ ἄλλῳ ἀνδρί εἰ μὴ ἐμοὶ Ποσιδωνίῳ (lines 9–10): i.e., so that she may not experience vaginal intercourse, anal
+ intercourse, or cunnilingus, nor give any pleasure to any man except him.</ab>
             </div>
             <div type="bibliography">
-                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): TK.</p>
+                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 247; Bagnall, R., Everyday Writing in the Graeco-Roman East (2011): 11; SEG 61.953.</p>
             </div>
         </body>
     </text>

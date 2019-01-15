@@ -42,20 +42,19 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>to the left of P78.2 and just below and to the left of the drawing of a ship.  area 16 cm wide × 9 cm high. Incised letters 1–1.5 cm high.</support>
+                                <support>Pier A78. To the left of P78.2 and just below and to the left of the drawing of a ship.</support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>TK Dimensions:
+                                <layout>Area:
                                             <dimensions>
-                                        <height unit="centimeter">TK</height>
-                                        <width unit="centimeter">TK</width>
+                                        <height unit="centimeter">9</height>
+                                        <width unit="centimeter">16</width>
                                     </dimensions>
                                 </layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Letter heights: <height unit="centimeter" min="" max=""
-                                    scope="letter">TK</height> cm high</handNote>
+                            <handNote>Incised letters: <height unit="centimeter" min="1" max="1.5" scope="letter">1-1.5</height> cm high</handNote>
                         </handDesc>
                     </physDesc>
                     <history>
@@ -77,17 +76,22 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb/>τ̣ί̣τθη
-                    <lb/>[   ̣   ̣  ̣ ] Τ  ̣  ̣  ̣  O [   ̣  ̣ ]πλευς πινκίρνας πρῶτος</ab>
+                    <lb n="1"/><unclear>τί</unclear>τθη
+                    <lb n="2"/><gap reason="lost" quantity="3" unit="character"/> Τ<gap reason="illegible" quantity="3" unit="character"/> O
+                    <lb n="3"/><gap reason="lost" quantity="2" unit="character"/>πλευς
+                    <lb n="4"/><w lemma="πιγκέρνα">πινκίρνας</w>
+                    <lb n="5"/><w lemma="πρῶτος">πρῶτος</w>
+                </ab>
             </div>
             <div type="translation">
                 <ab/>
             </div>
             <div type="commentary">
-                <ab/>
+                <ab>1. There may be some faint traces before the word.<lb/>
+                    4. Latin pincerna; the standard spelling in Greek is πιγκέρνα.</ab>
             </div>
             <div type="bibliography">
-                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): TK.</p>
+                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 387-388.</p>
             </div>
         </body>
     </text>

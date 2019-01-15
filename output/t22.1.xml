@@ -43,21 +43,19 @@
                         <objectDesc>
                             <supportDesc>
                                 <support>
-                                    <lb/>on the front (south) face of the pier (a34), about 1.25 m above ground level. area 16 cm wide
-                    <lb/>× 7 cm high, incised in letters 1.5–2.5 cm high.</support>
+                                    Bay 22 [= G29, between Piers A33 and A34]. On the front (south) face of the pier (A34), about 1.25 m above ground level.</support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>TK Dimensions:
+                                <layout>Area:
                                             <dimensions>
-                                        <height unit="centimeter">TK</height>
-                                        <width unit="centimeter">TK</width>
+                                        <height unit="centimeter">7</height>
+                                        <width unit="centimeter">16</width>
                                     </dimensions>
                                 </layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Letter heights: <height unit="centimeter" min="" max=""
-                                    scope="letter">TK</height> cm high</handNote>
+                            <handNote>Letter heights: <height unit="centimeter" min="1.5" max="2.5" scope="letter">1.5-2.5</height> cm high</handNote>
                         </handDesc>
                     </physDesc>
                     <history>
@@ -79,17 +77,19 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb/>φιλῶ ἧς ὁ ἀρι[θμὸς]
-                    <lb/>χις ο̣πολλ  [</ab>
+                    <lb n="1"/><w lemma="φιλάω">φιλῶ</w> <w lemma="ὅς">ἧς</w> <w lemma="ὁ">ὁ</w> <w lemma="ἀριθμός">ἀρι<supplied reason="lost">θμὸς</supplied></w>
+<lb n="2"/><num value="616">χις</num> <unclear>ο</unclear>πολλ<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+                </ab>
             </div>
             <div type="translation">
                 <ab>“I love a woman whose number is 616.”</ab>
             </div>
             <div type="commentary">
-                <ab/>
+                <ab>1. See Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 48.<lb/>
+                    2. There is no name or other element following the formula in the other instances of this formula, and, given the break at right, it is not obvious what the letters visible here are intended to mean.</ab>
             </div>
             <div type="bibliography">
-                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): TK.</p>
+                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 226.</p>
             </div>
         </body>
     </text>

@@ -39,7 +39,7 @@
                         <settlement>Izmir</settlement>
                         <geogName>Basilica of the Agora of Smyrna</geogName>
                         <repository>SMY</repository>
-                        <idno/>
+                        <idno>smyrna-agora-basilica-t2-1</idno>
                         <msName>Smyrna Agora Basilica T2.1.</msName>
                     </msIdentifier>
                     <physDesc>
@@ -93,12 +93,8 @@
                 <ab/>
             </div>
             <div type="commentary">
-                <p>1. To the left there are faint traces that we have not attempted to represent as separate letters here. Possibly –ειν is to be taken as an infinitive ending. 
-                    2. We cannot propose a word with εθωκα that could plausibly be read here; only Hesychius’ listing of a doric third person plural perfect form <w
-                        lemma="ἔθω"
-                        >ἐθώκατι</w> of ἔθω appears in a TLG search. Possibly we should suppose the theta to be a phonetic error for delta and understand <w
-                        lemma="εἰσδίδωμι"
-                    >εἰσέδωκα</w>. 
+                <p>1. To the left there are faint traces that we have not attempted to represent as separate letters here. Possibly –ειν is to be taken as an infinitive ending. <lb/>
+                    2. We cannot propose a word with εθωκα that could plausibly be read here; only Hesychius’ listing of a doric third person plural perfect form <w  lemma="ἔθω" certain="low">ἐθώκατι</w> of ἔθω appears in a TLG search. Possibly we should suppose the theta to be a phonetic error for delta and understand <w lemma="εἰσδίδωμι" certain="medium">εἰσέδωκα</w>. <lb/>
                     4. At the start, gamma or pi; after epsilon, perhaps lambda. The letter before omicron looks like a very large mu or double lambda; the letter preceding that could also be mu.</p>
             </div>
             <div type="bibliography">

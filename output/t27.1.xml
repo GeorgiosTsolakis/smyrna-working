@@ -42,20 +42,20 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>at 14 cm from the left edge of the bay, ca. 1.85 m above ground level. area 18 cm wide × 29 cm high. an awkward mixture of cursive and capital forms, wavery and variable in size; letters 4–6 cm high.</support>
+                                <support>Bay 27 [= G34, between Piers A38 and A39]. At 14 cm from the left edge of the bay, ca. 1.85 m above ground level.</support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>TK Dimensions:
+                                <layout>Area:
                                             <dimensions>
-                                        <height unit="centimeter">TK</height>
-                                        <width unit="centimeter">TK</width>
+                                        <height unit="centimeter">29</height>
+                                        <width unit="centimeter">18</width>
                                     </dimensions>
                                 </layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Letter heights: <height unit="centimeter" min="" max=""
-                                    scope="letter">TK</height> cm high</handNote>
+                            <handNote>An awkward mixture of cursive and capital forms, wavery and variable in size; letters: <height unit="centimeter" min="4" max="6"
+                                    scope="letter">4-6</height> cm high</handNote>
                         </handDesc>
                     </physDesc>
                     <history>
@@ -77,18 +77,22 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb/>ὀφθαλ
-                    <lb break="no"/>μοὺς [ὑ-] πὸ θεῶ̣[ν] εὐχαρι
-                    <lb break="no"/>στῶ τῇ Βαίτῃ</ab>
+                    <lb n="1"/><w lemma="ὀφθαλμός">ὀφθαλ-
+                    <lb n="2" break="no"/>μοὺς</w> <w lemma="ὑπό"><supplied reason="lost">ὑ</supplied></w>
+                    <lb n="3" break="no"/>πὸ <w lemma="θεός">θε<unclear>ῶ</unclear><supplied reason="lost">ν</supplied></w>
+                    <lb n="4"/><w lemma="εὐχαριστέω">εὐχαρι
+                    <lb n="5" break="no"/>στῶ</w> <w lemma="ὁ">τῇ</w>
+                    <lb n="6"/><geogName type="spring"><supplied reason="lost">Βαίτῃ</supplied></geogName>
+                </ab>
             </div>
             <div type="translation">
-                <ab/>
+                <ab>“(Being healed in) my eyes by the gods, I give thanks to the Baite.”</ab>
             </div>
             <div type="commentary">
-                <ab>“(Being healed in) my eyes by the gods, I give thanks to the Baite.” see introduction, pp. 42 and 44, for healings of eyes and for Baite.</ab>
+                <ab>See Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 42 and 44, for healings of eyes and for Baite.</ab>
             </div>
             <div type="bibliography">
-                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): TK.</p>
+                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 264; Bagnall, R., Everyday Writing in the Graeco-Roman East (2011): 22 and 21, fig. 9; SEG 61.969.</p>
             </div>
         </body>
     </text>

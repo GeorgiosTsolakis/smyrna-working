@@ -38,7 +38,7 @@
                         <settlement>Izmir</settlement>
                         <geogName>Basilica of the Agora of Smyrna</geogName>
                         <repository>SMY</repository>
-                        <idno/>
+                        <idno>smyrna-agora-basilica-t9-2</idno>
                         <msName>Smyrna Agora Basilica T9.2.</msName>
                     </msIdentifier>
                     <physDesc>
@@ -80,8 +80,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/>ὁ <w lemma="ἀναγιγνώσκω">ἀναγεινώ <add place="above">σ</add>
-                    -<lb n="2"/>κων</w> τὸν <w lemma="θεός">θεὸν</w>
+                    <lb n="1"/>ὁ <w lemma="ἀναγιγνώσκω">ἀναγεινώ<hi rend="superscript">σ</hi>
+                    <lb n="2" break="no"/>κων</w> τὸν <w lemma="θεός">θεὸν</w>
                     <lb n="3"/>σοι <w lemma="ὀρχέομαι">ὀρχῆσαι</w>
                     <lb n="4"/>ΛΕ . <unclear>Ν</unclear>ΩΔΕΣ ὀρχη
                 </ab>

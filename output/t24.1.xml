@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>T24.1: And t24.3</title>
+                <title>T24.1: Uncertain</title>
                 <respStmt>
                     <resp>Encoded in XML from original publication</resp>
                     <name>Tom Elliott</name>
@@ -42,20 +42,20 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>at 15 cm from the left edge, ca. 1.18 m above the bench. area ca. 25 cm wide × 18 cm high. rather awkward capital letters 3–4 cm high.</support>
+                                <support>Bay 24 [= G31, between Piers A35 and A36]. At 15 cm from the left edge, ca. 1.18 m above the bench.</support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>TK Dimensions:
+                                <layout>Αrea:
                                             <dimensions>
-                                        <height unit="centimeter">TK</height>
-                                        <width unit="centimeter">TK</width>
+                                        <height unit="centimeter">18</height>
+                                        <width unit="centimeter">25</width>
                                     </dimensions>
                                 </layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Letter heights: <height unit="centimeter" min="" max=""
-                                    scope="letter">TK</height> cm high</handNote>
+                            <handNote>Rather awkward capital letters: <height unit="centimeter" min="3" max="4"
+                                    scope="letter">3-4</height> cm high</handNote>
                         </handDesc>
                     </physDesc>
                     <history>
@@ -77,17 +77,19 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb/>τικτομ̣έ
-                    <lb break="no"/>νη κατ̣ὰ ΠΑ   ̣ ΣΤ   ̣</ab>
+                    <lb n="1"/><w lemma="τίκτω">τικτο<unclear>μ</unclear>έ-
+                    <lb n="2" break="no"/>νη</w> <w lemma="κατά">κα<unclear>τ</unclear>ὰ</w>
+                    <lb n="3"/>ΠΑ<gap reason="illegible" quantity="1" unit="character"/>ΣΤ<gap reason="illegible" quantity="2" unit="character"/>
+                </ab>
             </div>
             <div type="translation">
                 <ab/>
             </div>
             <div type="commentary">
-                <ab/>
+                <ab>1–2 We owe the reading to Angelos Chaniotis. It seems likely that <w lemma="τίκτω">τικτομένη</w> is passive rather than middle, but our lack of success in reading line 3 frustrates the curiosity aroused. It is conceivable that the lines below, which we print as T24.3, belong to the same text, but they are even more fragmentary and unlikely to help.</ab>
             </div>
             <div type="bibliography">
-                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): TK.</p>
+                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 235.</p>
             </div>
         </body>
     </text>

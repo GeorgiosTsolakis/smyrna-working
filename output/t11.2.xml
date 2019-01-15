@@ -42,20 +42,20 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>under the phallus, an area of 19 cm wide × 7 cm high. 2 lines in rough capitals 3 cm high.</support>
+                                <support>Bay 11 [= G17, between Piers A21 and A22]. Under the phallus.</support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>TK Dimensions:
+                                <layout>Area:
                                             <dimensions>
-                                        <height unit="centimeter">TK</height>
-                                        <width unit="centimeter">TK</width>
+                                        <height unit="centimeter">7</height>
+                                        <width unit="centimeter">19</width>
                                     </dimensions>
                                 </layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Letter heights: <height unit="centimeter" min="" max=""
-                                    scope="letter">TK</height> cm high</handNote>
+                            <handNote>Rough capitals <height unit="centimeter" 
+                                    scope="letter">3</height> cm high.</handNote>
                         </handDesc>
                     </physDesc>
                     <history>
@@ -77,7 +77,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb/>ΚΑ̣ΤΑΧ̣ ΑΜ̣ ΑΛ</ab>
+                    <lb n="1"/>Κ<unclear>Α</unclear>ΤΑ<unclear>Χ</unclear>
+                    <lb n="2"/>Α<unclear>Μ</unclear>ΑΛ<gap reason="illegible" quantity="1" unit="character"/>
+                </ab>
             </div>
             <div type="translation">
                 <ab/>
@@ -86,7 +88,7 @@
                 <ab>It is unclear what may have been lost at right. The mu in line 2 could instead be double lambda. The final letter is rounded and most likely epsilon or omicron.</ab>
             </div>
             <div type="bibliography">
-                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): TK.</p>
+                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 136.</p>
             </div>
         </body>
     </text>

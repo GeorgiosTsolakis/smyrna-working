@@ -42,20 +42,20 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>about 10 cm below T14.1 and just to the right. area 40 × 3 cm. detached majuscule letters 5 cm high.</support>
+                                <support>Bay 14 [= G20, between Piers A24 and A25]. About 10 cm below T14.1 and just to the right.</support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>TK Dimensions:
+                                <layout>Area:
                                             <dimensions>
-                                        <height unit="centimeter">TK</height>
-                                        <width unit="centimeter">TK</width>
+                                        <height unit="centimeter">3</height>
+                                        <width unit="centimeter">40</width>
                                     </dimensions>
                                 </layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Letter heights: <height unit="centimeter" min="" max=""
-                                    scope="letter">TK</height> cm high</handNote>
+                            <handNote>Detached majuscule letters: <height unit="centimeter" 
+                                    scope="letter">5</height> cm high</handNote>
                         </handDesc>
                     </physDesc>
                     <history>
@@ -77,18 +77,17 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb/>Δι̣ο̣γένης
-                    <lb/>ὀ̣φ̣θ̣αλμούς Α   ̣  ̣ Ε
-                    <lb/>̣  ̣  ̣  ̣  ̣ ισα</ab>
+<lb n="1"/><persName type="attested"><name nymRef="nametable.xml#Διογένης" type="cognomen">Δ<unclear>ιο</unclear>γένης</name></persName>
+                </ab>
             </div>
             <div type="translation">
                 <ab/>
             </div>
             <div type="commentary">
-                <ab>reported as probably an example of Θεαγένης (cf. t12.5) in Bagnall, Everyday Writing. The delta is certain, even if the two following letters are extremely uncertain. about 55 cm below T14.2, 3 lines of uneven size, with detached majuscule letters ranging from In the lower left quadrant of the bay, in black ink. dimensions 44 cm wide × 48 cm high. published as Bay 14-t25 in pomey 2006: 333, fig. 24. dipinto of a cargo vessel, located in the lower left quadrant of the back wall of Bay 14. The ship, possibly a medium sized oneraria sailing on port tack, is depicted as in full sail. at the ship’s center a tall and slightly oblique mast (ἱστός) sits on a raised deck, covered in a dense net of rigging. toward its top, the yard (κέρας) is rendered with a single thick oblique line. The large sail (ἱστίον) is shown as billowed by a tail wind that propels the vessel forward. The sail is defined by a net of crisscrossing lines that delineate the rigging and the brailing ropes. also visible is the system of ropes (generally known as τοπεῖα) that connect the yard to the mast, the yard to the stern, and the mast to the stern. The keel of the ship is quite flat at the bottom and rockers toward the stern and the prow. The prow is higher than the stern and terminates with a short and projecting στόλος rounded at the top. The stern is quite low and straight with no signs of the helmsman’s seat. one line running along the entire hull, roughly in the middle of it, can be interpreted as the indication of the ship’s waterway. no oars, oar posts, or rudders are visible.</ab>
+                <ab>Reported as probably an example of <persName type="attested"><name nymRef="nametable.xml#Θεαγένης" type="cognomen">Θεαγένης</name></persName> (cf. T12.5) in Bagnall, R., Everyday Writing in the Graeco-Roman East (2011): 16. The delta is certain, even if the two following letters are extremely uncertain.</ab>
             </div>
             <div type="bibliography">
-                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): TK.</p>
+                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 174; Bagnall, R., Everyday Writing in the Graeco-Roman East (2011): 16.</p>
             </div>
         </body>
     </text>

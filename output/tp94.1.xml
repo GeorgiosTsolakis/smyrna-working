@@ -42,20 +42,20 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>on the left bevel of the south face. Incised. from 131 cm from floor. area 12 cm wide × 6 cm high. letters 1.2–2.5 cm high.</support>
+                                <support>Pier 94. On the left bevel of the south face. From 131 cm from floor.</support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>TK Dimensions:
+                                <layout>Incised. Area:
                                             <dimensions>
-                                        <height unit="centimeter">TK</height>
-                                        <width unit="centimeter">TK</width>
+                                        <height unit="centimeter">6</height>
+                                        <width unit="centimeter">12</width>
                                     </dimensions>
                                 </layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Letter heights: <height unit="centimeter" min="" max=""
-                                    scope="letter">TK</height> cm high</handNote>
+                            <handNote>Letter heights: <height unit="centimeter" min="1.2" max="2.5"
+                                    scope="letter">1.2-2.5</height> cm high</handNote>
                         </handDesc>
                     </physDesc>
                     <history>
@@ -77,17 +77,18 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb/>ζήτη
-                    <lb break="no"/>μα</ab>
+                    <lb n="1"/><w lemma="ζήτημα">ζήτη
+                    <lb n="2" break="no"/>μα</w>
+                </ab>
             </div>
             <div type="translation">
                 <ab/>
             </div>
             <div type="commentary">
-                <ab>nothing else appears to have been written here. on the west face of the pier, at the top of the plaster, above drawing DP94.3. In an area 31 cm wide ×  34 cm high. letters 5–6 cm high. text not read.</ab>
+                <ab>Nothing else appears to have been written here.</ab>
             </div>
             <div type="bibliography">
-                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): TK.</p>
+                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 409.</p>
             </div>
         </body>
     </text>

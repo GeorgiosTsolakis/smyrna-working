@@ -42,20 +42,21 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>on the pier at right, at top, an area of 10 cm wide × 9 cm high, with incised majuscule letters 4 cm in height.</support>
+                                <support>Bay 11 [= G17, between Piers A21 and A22]. LOn the pier at right, at top.</support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>TK Dimensions:
+                                <layout>
                                             <dimensions>
-                                        <height unit="centimeter">TK</height>
-                                        <width unit="centimeter">TK</width>
+                                        <height unit="centimeter">9</height>
+                                        <width unit="centimeter">10</width>
                                     </dimensions>
                                 </layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Letter heights: <height unit="centimeter" min="" max=""
-                                    scope="letter">TK</height> cm high</handNote>
+                            <handNote>Ιncised majuscule letters 
+                                <height unit="centimeter"
+                                    scope="letter">4</height> cm  in height.</handNote>
                         </handDesc>
                     </physDesc>
                     <history>
@@ -86,7 +87,7 @@
                 <ab>Below this are traces of a tabula ansata, or perhaps two tabulae, with faint remains of 6 or more lines in ink in an area 51 cm wide × 53 cm high, all unreadable.</ab>
             </div>
             <div type="bibliography">
-                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): TK.</p>
+                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 139.</p>
             </div>
         </body>
     </text>

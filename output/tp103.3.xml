@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Tp103.3.: Uncertain; obscene graffito</title>
+                <title>Tp103.3.: Uncertain; Obscene Graffito</title>
                 <respStmt>
                     <resp>Encoded in XML from original publication</resp>
                     <name>Tom Elliott</name>
@@ -42,20 +42,24 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>to the left of TP103.2. In the recessed area. 203 cm from floor. area 23 cm wide × 21 cm high. on the second layer of the plaster. letters 4.5 cm high.</support>
+                                <support>Pier 103. To the left of TP103.2. In the recessed area. 203 cm from floor. On the second layer of the plaster. The second graffito is below the first, on the first layer of plaster.</support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>TK Dimensions:
+                                <layout>Area of the first graffito :
                                             <dimensions>
-                                        <height unit="centimeter">TK</height>
-                                        <width unit="centimeter">TK</width>
+                                        <height unit="centimeter">21</height>
+                                        <width unit="centimeter">23</width>
+                                    </dimensions>
+                                    Area of the second graffito :
+                                    <dimensions>
+                                        <height unit="centimeter">18</height>
+                                        <width unit="centimeter">23</width>
                                     </dimensions>
                                 </layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Letter heights: <height unit="centimeter" min="" max=""
-                                    scope="letter">TK</height> cm high</handNote>
+                            <handNote>Letter heights of first and second graffito: <height unit="centimeter" scope="letter">4,5</height> cm high and <height unit="centimeter" scope="letter">8</height> cm high, respectively.</handNote>
                         </handDesc>
                     </physDesc>
                     <history>
@@ -76,19 +80,31 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-                <ab>
-                    <lb/>δῆμος σ̣ὺν ε̣ Ε   ̣  ̣  Ι̣
-                    <lb/>πυγίζε
-                    <lb break="no"/>ται</ab>
+            <div type="textpart" subtype="section" n="1" >
+                <ab> 
+                    <lb n="1"/><w lemma="δῆμος">δῆμος</w>
+                    <lb n="2"/><w lemma="σύν"><unclear>σ</unclear>ὺν</w> <unclear>ε</unclear> <gap reason="illegible" quantity="1" unit="character"/>
+                    <lb n="3"/>Ε <gap reason="illegible" quantity="2" unit="character"/> <unclear>Ι</unclear>
+                </ab>
             </div>
+            <div type="textpart" subtype="section" n="2" >
+                <ab>
+                    <lb n="1"/><w lemma="πυγίζω">πυγίζε
+                    <lb n="2" break="no"/>ται</w>
+                </ab>
+            </div>
+            </div>
+            
             <div type="translation">
-                <ab>“he is being buggered.”</ab>
+                <ab>“He is being buggered.”</ab>
             </div>
             <div type="commentary">
-                <ab>we have not been able to read with what or whom the people is said to be. Below this, on the first layer of plaster. area 23 cm wide × 18 cm high. letters 8 cm high.</ab>
+                <div type="textpart" subtype="section" n="1" >
+                    <ab>We have not been able to read with what or whom the people is said to be. </ab>
+                </div>
             </div>
             <div type="bibliography">
-                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): TK.</p>
+                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 441.</p>
             </div>
         </body>
     </text>

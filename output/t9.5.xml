@@ -33,7 +33,7 @@
                         <settlement>Izmir</settlement>
                         <geogName>Basilica of the Agora of Smyrna</geogName>
                         <repository>SMY</repository>
-                        <idno/>
+                        <idno>smyrna-agora-basilica-t9-5</idno>
                         <msName>Smyrna Agora Basilica T9.5.</msName>
                     </msIdentifier>
                     <physDesc>
@@ -79,7 +79,7 @@
                 <ab>
                     <lb n="1"/><del rend="erasure"><gap reason="lost" quantity="9" unit="character"/></del> <gap reason="lost" quantity="4" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>ΑΠΕ<gap reason="illegible" quantity="3" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><gap reason="illegible" quantity="2" unit="character"/><unclear>η</unclear> τὴν <geogName type="spring">Βαιτη<supplied reason="lost">ν</supplied></geogName> καὶ <w lemma="ἀφανίζω">ἀφανίσ<supplied reason="lost">ῃ</supplied></w><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/>τὸ <w lemma="ἔργον">ἔργ<supplied reason="lost">ο</supplied><unclear>ν</unclear></w> τ<unclear>ῷ</unclear> <w lemma="δῆμος">δήμ<unclear>ῳ</unclear></w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><space extent="unknown" unit="character"/>τὸ <w lemma="ἔργον">ἔργ<supplied reason="lost">ο</supplied><unclear>ν</unclear></w> τ<unclear>ῷ</unclear> <w lemma="δῆμος">δήμ<unclear>ῳ</unclear></w> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="4"/><supplied reason="lost">ἐ</supplied>ὰν δὲ καὶ <w lemma="καταπίνω">καταπείνῃ</w> μηδὲν<gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="5"/><space extent="unknown" unit="character"/>ΜΗ<gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
@@ -88,7 +88,7 @@
                 <ab/>
             </div>
             <div type="commentary">
-                <ab>If nothing more is lost at right than a letter, then we may take ἀφανίσ[ῃ], | τὸ ἔργον τῷ δήμῳ continuously, in the sense of “whoever destroys the work to the detriment of the people.” The work may be the fountain that housed the outflow from the spring. This would (on our view) explain the reference to Baite immediately before. On line 4, cf. T8.1, line 4 and note. How the phrase concludes is not evident. We are (as with T8.1) indebted to Angelos Chaniotis for valuable suggestions.</ab>
+                <ab>If nothing more is lost at right than a letter, then we may take  <w lemma="ἀφανίζω">ἀφανίσ[ῃ]</w>, | τὸ <w lemma="ἔργον">ἔργον</w> τῷ <w lemma="δῆμος">δήμῳ</w> continuously, in the sense of “whoever destroys the work to the detriment of the people.” The work may be the fountain that housed the outflow from the spring. This would (on our view) explain the reference to Baite immediately before. On line 4, cf. T8.1, line 4 and note. How the phrase concludes is not evident. We are (as with T8.1) indebted to Angelos Chaniotis for valuable suggestions.</ab>
             </div>
             <div type="bibliography">
                 <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 120-121.</p>

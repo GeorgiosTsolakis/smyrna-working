@@ -42,20 +42,21 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support/>
+                                <support>Pier A77. On the second (upper) layer of plaster,
+                                    above the remains of one end of a phallus.</support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>TK Dimensions:
+                                <layout>Area:
                                             <dimensions>
-                                        <height unit="centimeter">TK</height>
-                                        <width unit="centimeter">TK</width>
+                                        <height unit="centimeter">23</height>
+                                        <width unit="centimeter">30</width>
                                     </dimensions>
                                 </layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Letter heights: <height unit="centimeter" min="" max=""
-                                    scope="letter">TK</height> cm high</handNote>
+                            <handNote>Letter heights: <height unit="centimeter" min="2" max="3"
+                                    scope="letter">2-3</height> cm high</handNote>
                         </handDesc>
                     </physDesc>
                     <history>
@@ -76,16 +77,21 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-                <ab/>
+                <ab>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/>ν <persName type="attested"><name nymRef="nametable.xml#Φιλεῖνος" type="cognomen">Φιλεῖνο<unclear>ς</unclear></name></persName> ΤΗ<gap reason="lost" extent="unknown" unit="character"/>
+<lb n="2"/><gap reason="lost" extent="unknown" unit="character"/>ην <w lemma="λέγω">εἶπεν</w> οφιλ<gap reason="lost" extent="unknown" unit="character"/>
+<lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <unclear>Ι</unclear>ΛΕΙΠΟ <gap reason="illegible" quantity="5" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+                </ab>
             </div>
             <div type="translation">
                 <ab/>
             </div>
             <div type="commentary">
-                <ab/>
+                <ab>1. <w lemma="φιλέω">φιλεῖν</w> and <persName type="attested"><name nymRef="nametable.xml#Φιλεῖνος" type="cognomen">Φιλεῖνος</name></persName> both seem possible in principle; the letter after omicron looks most like a tiny rho without tail, but sigma is more likely given its scale and position; it seems too curved for iota.
+                    2. <w lemma="ὀφείλω">ὀφίλ[ειν</w>, read <w lemma="ὀφείλω">ὀφείλειν</w>, is possible. But <w lemma="φιλέω">φιλεῖν</w>ὁ <persName type="attested"><name nymRef="nametable.xml#Φιλεῖνος" type="cognomen">Φιλ[εῖνος</name></persName> seems equally plausible</ab>
             </div>
             <div type="bibliography">
-                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): TK.</p>
+                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 382.</p>
             </div>
         </body>
     </text>

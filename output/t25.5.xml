@@ -42,20 +42,19 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>at the top of the wall, against the right edge of the bay. area ca. 40 cm wide × 10 cm high. Irregular detached letters 4 cm high except rho and high nu, which are 7 cm.</support>
+                                <support>Bay 25 [= G32, between Piers A36 and A37]. At the top of the wall, against the right edge of the bay.</support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>TK Dimensions:
+                                <layout>Area:
                                             <dimensions>
-                                        <height unit="centimeter">TK</height>
-                                        <width unit="centimeter">TK</width>
+                                        <height unit="centimeter">10</height>
+                                        <width unit="centimeter">40</width>
                                     </dimensions>
                                 </layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Letter heights: <height unit="centimeter" min="" max=""
-                                    scope="letter">TK</height> cm high</handNote>
+                            <handNote>Irregular detached letters: <height unit="centimeter" scope="letter">4</height> cm high, rho and high nu, which<height unit="centimeter" scope="individualletter">7 cm.</height></handNote>
                         </handDesc>
                     </physDesc>
                     <history>
@@ -77,20 +76,18 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb/>κοντροκυνή-
-                    <lb/>γις
-                    <lb/>]ΤΟΝ
-                    <lb/>]Ο  ̣  ̣
-                    <lb/>] traces</ab>
+<lb n="1"/><w lemma="*κοντροκυνήγιος" cert="medium">κοντροκυνή-
+<lb n="2" break="no"/><space quantity="7" unit="character"/>γις</w>
+                </ab>
             </div>
             <div type="translation">
                 <ab/>
             </div>
             <div type="commentary">
-                <ab>Just below T25.4, at ca. 21 cm from the right side of the bay. The top is ca. 1.5 m above ground level. In a box ca 30 cm wide × 32 cm high. The right side is badly faded. detached majuscule letters 8 cm high. In the upper left quadrant of the bay, in black ink. dimensions 30 cm wide × 44 cm high. dipinto of a male sexual organ, located in the upper left quadrant of the back wall of Bay 25. The graffito has almost completely disappeared into a very large lacuna in the plaster at the center of the wall. only parts of the two testicles are still preserved. Both are drawn in multiple concentric strokes (at least four are identifiable) that overlap all preexisting graffiti (see D25.2, D25.3 and D25.4), suggesting that this image was the last one drawn on the wall. The upper testicle is almost entirely preserved: oval in shape and placed diagonally, it was probably attached to the second one at its missing end. The lower testicle is almost completely missing. what is left suggests that it was probably similar in shape and size to the other one. In the upper left quadrant of the bay, in black ink. dimensions 14 cm wide × 28 cm high. dipinto of a male sexual organ, located in the upper left quadrant of the back wall of Bay 25. The corpus of the penis, pointing downward, is drawn vertically in two lines: the left one is straight, while the right one is convex, creating the overall shape of an elongated drop. The two testicles are attached to each other, and they are placed horizontally on top of the corpus. The one to the left is larger and roughly rhomboidal in shape, while the one to the right is significantly smaller and oval. In the upper left quadrant of the bay, in black ink. dimensions 25 cm wide × 27 cm high. dipinto of a male sexual organ, located in the upper left quadrant of the back wall of Bay 25. The graffito is damaged by the large gap in the plaster that affects most of the wall’s surface. additionally, parts of the outline are illegible due to fading. of the original graffito, the two testicles, placed right below a face in profile (D25.4) are still clearly identifiable. Both are oval in shape: the left one is smaller, while the right one is larger and points downward toward the right. The corpus of the penis, noticeably larger, follows the same orientation, also pointing downward. Its right end is damaged by the loss of plaster. In the upper left quadrant of the bay, in black ink. dimensions 18 cm wide × 23 cm high. dipinto of a male head in profile, located in the upper left quadrant of the back wall of Bay on the left jamb (a37) of the bay, in black ink. dimensions 9 cm wide × 9.5 cm high. dipinto of a male sexual organ, located on the left jamb of the doorway opening in the back wall of Bay 26, at the height of the lintel. only the testicles, both elongated and teardrop-shaped, are still visible. The upper one is almost completely faded. The plaster on the bay’s back wall is generally well preserved, despite a large and roughly horizontal gap that runs through the whole width of the wall, where one course of stone masonry and a small section of an earlier layer of plaster, with no extant graffti or dipinti, are visible. one inscription is in the upper right quadrant of the wall (T27.3), and two inscriptions are in the upper left quadrant (T27.1 and T27.2). These two texts both refer to the eye that decorates one of the two ships dominating the wall’s center (D27.1). one largely damaged and faded dipinto, possibly of a building, is in the wall’s lower register (D27.2).</ab>
+                <ab>1–2. Presumably for <w lemma="*κοντροκυνήγιος">*κοντροκυνήγιος</w>, a wild-beast hunter with a pike. LSJ lists <w lemma="κοντροκυνηγέσιον">κοντροκυνηγέσιον</w>, citing IGRR 4.1632 and SEG 6.608, where L. Robert refers to his discussion of IGRR 3.360 in Rev.Arch. 30 (1929) 29–31 = Opera Minora Selecta 1.696–698. There he comments on the use of <w lemma="σιδηροκόντρα">σιδηροκόντρα</w>. There are no literary occurrences recorded in TLG. Cf. the fragmentary T12.6 for another possible occurrence at Smyrna.</ab>
             </div>
             <div type="bibliography">
-                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): TK.</p>
+                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 250; Bagnall, R., Everyday Writing in the Graeco-Roman East (2011): 16-17; SEG 61.960.</p>
             </div>
         </body>
     </text>

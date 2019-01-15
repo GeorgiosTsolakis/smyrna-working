@@ -42,20 +42,19 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>on the underside of the arch. area 14 cm wide × 40 cm high. two stars (DP103.1) and an inscription in cursive but detached letters 3–5 cm high. on the second layer of the plaster.</support>
+                                <support>Pier 103. on the underside of the arch. On the underside of the arch. On the second layer of the plaster.</support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>TK Dimensions:
+                                <layout>Two stars (DP103.1) and an inscription. Area:
                                             <dimensions>
-                                        <height unit="centimeter">TK</height>
-                                        <width unit="centimeter">TK</width>
+                                        <height unit="centimeter">40</height>
+                                        <width unit="centimeter">14</width>
                                     </dimensions>
                                 </layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Letter heights: <height unit="centimeter" min="" max=""
-                                    scope="letter">TK</height> cm high</handNote>
+                            <handNote>In cursive but detached letters: <height unit="centimeter" min="3" max="5" scope="letter">3-5</height> cm high</handNote>
                         </handDesc>
                     </physDesc>
                     <history>
@@ -77,18 +76,22 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb/>ΩΔΕ
-                    <lb/>stars
-                    <lb/>ΕΩ</ab>
+                    <lb n="1"/>ΩΔΕ
+                    <lb n="2"/><g type="stars"/>
+                    <lb n="3"/>ΕΩ
+                </ab>
             </div>
             <div type="translation">
                 <ab/>
             </div>
             <div type="commentary">
-                <ab/>
+                <ab>
+                    1. Perhaps corrected; written above the two stars. Perhaps <w lemma="ὧδε">ὧδε</w>, “here”?<lb/>
+                    2. Washed out? Not readable on the photograph, but seen by Tanrıver 2013. Is it an oblique form of <w lemma="ἕως">ἕως</w>, “dawn”?
+                </ab>
             </div>
             <div type="bibliography">
-                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): TK.</p>
+                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 439.</p>
             </div>
         </body>
     </text>

@@ -42,20 +42,15 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>another inscription stands to the left and above it, to the left of the base of temple 1; probably by the same hand.</support>
+                                <support>Pier 109. It stands to the left and above TP109.1, to the left of the base of Temple 1.</support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>TK Dimensions:
-                                            <dimensions>
-                                        <height unit="centimeter">TK</height>
-                                        <width unit="centimeter">TK</width>
-                                    </dimensions>
-                                </layout>
+                                <layout/>
+                                
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Letter heights: <height unit="centimeter" min="" max=""
-                                    scope="letter">TK</height> cm high</handNote>
+                            <handNote>Probably by the same hand as TP109.1</handNote>
                         </handDesc>
                     </physDesc>
                     <history>
@@ -77,16 +72,18 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb/>]   ̣  ̣ ἐπ’ ἀφροδισίας</ab>
+                    <lb n="1"/> <gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="2" unit="character"/> <w lemma="ἐπί">ἐπ’</w> <w lemma="ἀφροδίσιος">ἀφροδισίας</w>
+
+                </ab>
             </div>
             <div type="translation">
                 <ab/>
             </div>
             <div type="commentary">
-                <ab>Interpreting the phrase is not easy, as ἀφροδίσιος would more normally be expected to be in the neuter plural, with the sense of “brothel.”</ab>
+                <ab>Interpreting the phrase is not easy, as <w lemma="ἀφροδίσιος">ἀφροδίσιος</w> would more normally be expected to be in the neuter plural, with the sense of “brothel.”</ab>
             </div>
             <div type="bibliography">
-                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): TK.</p>
+                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 451.</p>
             </div>
         </body>
     </text>

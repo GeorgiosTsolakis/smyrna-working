@@ -42,20 +42,19 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support/>
+                                <support>Pier 100. 12 cm below TP100.3. On the lower layer of plaster. </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>TK Dimensions:
+                                <layout>Area:
                                             <dimensions>
-                                        <height unit="centimeter">TK</height>
-                                        <width unit="centimeter">TK</width>
+                                        <height unit="centimeter">8</height>
+                                        <width unit="centimeter">22</width>
                                     </dimensions>
                                 </layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Letter heights: <height unit="centimeter" min="" max=""
-                                    scope="letter">TK</height> cm high</handNote>
+                            <handNote>Incised in large, awkward majuscule letters: <height unit="centimeter" scope="letter">4.5</height> cm high</handNote>
                         </handDesc>
                     </physDesc>
                     <history>
@@ -77,17 +76,19 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb/>̣  ̣  ̣  ̣ ΙΚΑ  ΑΚ
-                    <lb/>Ι   ̣  ̣  ̣  Μ   ̣  [   ̣  ̣  ] ἑατὸν γυνὴ ἀχάριστον</ab>
+                    <lb n="1"/><gap reason="illegible" quantity="4" unit="character"/>ΙΚΑ<gap reason="illegible" quantity="1" unit="character"/>ΑΚ
+                    <lb n="2"/>Ι<gap reason="illegible" quantity="3" unit="character"/> Μ<gap reason="illegible" quantity="1" unit="character"/> <gap reason="lost" quantity="2" unit="character"/> <w lemma="ἑαυτόν"><choice><reg>ἑαυτὸν</reg><orig>ἑατὸν</orig></choice></w>
+                    <lb n="3"/><w lemma="γυνή">γυνὴ</w><w lemma="ἀχάριστος">ἀχάριστον</w>
+                </ab>
             </div>
             <div type="translation">
                 <ab/>
             </div>
             <div type="commentary">
-                <ab/>
+                <ab>2. Read <w lemma="ἑαυτόν">ἑαυτόν</w>.</ab>
             </div>
             <div type="bibliography">
-                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): TK.</p>
+                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 428.</p>
             </div>
         </body>
     </text>

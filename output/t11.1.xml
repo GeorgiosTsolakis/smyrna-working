@@ -42,20 +42,20 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>ending 42 cm from the right side of the bay, and about 2.15 m above ground level. above the phallus D11.5 and to the right of the testicles. area of 32 cm wide × 12 cm high. letters 7–11 cm high, crudely written.</support>
+                                <support>Bay 11 [= G17, between Piers A21 and A22]. Εnding 42 cm from the right side of the bay, and about 2.15 m above ground level. Αbove the phallus D11.5 and to the right of the testicles.</support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>TK Dimensions:
+                                <layout>
                                             <dimensions>
-                                        <height unit="centimeter">TK</height>
-                                        <width unit="centimeter">TK</width>
+                                        <height unit="centimeter">12</height>
+                                        <width unit="centimeter">32</width>
                                     </dimensions>
                                 </layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Letter heights: <height unit="centimeter" min="" max=""
-                                    scope="letter">TK</height> cm high</handNote>
+                            <handNote>Letters <height unit="centimeter" min="7" max="11"
+                                scope="letter">7-11</height> cm high, crudely written.</handNote>
                         </handDesc>
                     </physDesc>
                     <history>
@@ -77,7 +77,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb/>ψωλή</ab>
+                    <lb/><w lemma="ψωλή">ψωλή</w></ab>
             </div>
             <div type="translation">
                 <ab/>
@@ -86,7 +86,7 @@
                 <ab>The word, written here over D11.5, a drawing of a phallus, is defined by lsJ as membrum virile praeputio retracto. But this is too specific and genteel; aristophanes’ usage (Aves 560, Lys. 979) does not support it. Modern Greek usage, no doubt little different, is defined in Babiniotis 1988: 2022 as το ανδρικό μόριο, το πέος and marked as vulgar: “prick” would be a good english rendering. an excellent parallel to our text is furnished by SEG 49.1385a, where the word is written over a drawing of a phallus from a latrine in rome.</ab>
             </div>
             <div type="bibliography">
-                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): TK.</p>
+                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 135.</p>
             </div>
         </body>
     </text>

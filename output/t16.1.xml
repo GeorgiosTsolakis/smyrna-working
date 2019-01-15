@@ -42,20 +42,20 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>at top, centered, 27 cm from the top of the wall, 35 cm from the left edge. area 75 cm wide × 37 cm high. detached roughly made majuscule letters 4–6 cm high.</support>
+                                <support>Bay 16 [= G22, between Piers A26 and A27]. At top, centered, 27 cm from the top of the wall, 35 cm from the left edge.</support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>TK Dimensions:
+                                <layout>Area:
                                             <dimensions>
-                                        <height unit="centimeter">TK</height>
-                                        <width unit="centimeter">TK</width>
+                                        <height unit="centimeter">37</height>
+                                        <width unit="centimeter">75</width>
                                     </dimensions>
                                 </layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Letter heights: <height unit="centimeter" min="" max=""
-                                    scope="letter">TK</height> cm high</handNote>
+                            <handNote>Detached roughly made majuscule letters: <height unit="centimeter" min="4" max="6"
+                                    scope="letter">4-6</height> cm high</handNote>
                         </handDesc>
                     </physDesc>
                     <history>
@@ -64,7 +64,7 @@
                             <placeName ref="URI" type="property_number"
                                 >https://pleiades.stoa.org/places/550771</placeName>
                             <origDate notBefore-custom="0180" notAfter-custom="0300"
-                                datingMethod="#julian">180-300</origDate>
+                                datingMethod="#julian">125/6 or 125/6 CE</origDate>
                         </origin>
                     </history>
                 </msDesc>
@@ -77,19 +77,22 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb/>Χαρίας ὁ κα[ὶ] Λ̣ου
-                    <lb break="no"/>κος εὐξάμενος
-                    <lb/>περὶ τῶν ὀφθα̣λ̣μῶν τοὺς λύχνους ἀπέδωκε
-                    <lb/>ἔτους σι</ab>
+                    <lb n="1"/><persName type="attested"><name nymRef="nametable.xml#Χαρίας" type="cognomen">Χαρίας</name></persName> <w lemma="ὁ">ὁ</w> <w lemma="καί">κα<supplied reason="lost">ὶ</supplied></w> <persName type="attested"><name nymRef="nametable.xml#Λούκιος" type="cognomen"><unclear>Λ</unclear>ου
+                    <lb n="2" break="no"/>κος</name></persName> <w lemma="εὔχομαι">εὐξάμενος</w>
+                    <lb n="3"/><w lemma="περί">περὶ</w> <w lemma="ὁ">τῶν</w> <w lemma="ὀφθαλμός">ὀφθ<unclear>αλ</unclear>μῶν</w>
+                    <lb n="4"/><w lemma="ὁ">τοὺς</w> <w lemma="λύχνος">λύχνους</w> <w lemma="ἀποδίδωμι">ἀπέδωκε</w>
+                    <lb n="5"/><w lemma="ἔτος">ἔτους</w> <num value="210">σι</num>
+                </ab>
             </div>
             <div type="translation">
-                <ab>“charias also called louk(i?)os, having prayed concerning his eyes, dedicated the lamps. year 210.”</ab>
+                <ab>“Charias also called Louk(i?)os, having prayed concerning his eyes, dedicated the lamps. Year
+                    210.”</ab>
             </div>
             <div type="commentary">
-                <ab>see the introduction, pp. 36–39, for discussion of this text.</ab>
+                <ab>See the introduction, pp. 36–39, for discussion of this text.</ab>
             </div>
             <div type="bibliography">
-                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): TK.</p>
+                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 200 and 36-39; Bagnall, R., Everyday Writing in the Graeco-Roman East (2011): 22; SEG 61.972.</p>
             </div>
         </body>
     </text>

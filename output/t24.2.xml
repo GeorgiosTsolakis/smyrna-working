@@ -42,20 +42,21 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>ca. 15 cm to the right of the right edge of T24.1 and just above one testicle of D24.1. one inscription with fragments of a second to its right; overall area ca. &gt;54 cm wide × 18 cm high. cursive-style but detached letters 4–7 cm high on the left. The highly effaced surface leaves doubt about how many inscriptions are at stake.</support>
+                                <support>Bay 24 [= G31, between Piers A35 and A36]. Ca. 15 cm to the right of the right edge of T24.1 and just above one testicle of D24.1. One
+                                    inscription with fragments of a second to its right.</support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>TK Dimensions:
+                                <layout>The highly effaced surface leaves doubt about how many inscriptions are at stake. Οverall area:
                                             <dimensions>
-                                        <height unit="centimeter">TK</height>
-                                        <width unit="centimeter">TK</width>
+                                        <height unit="centimeter">18</height>
+                                        <width unit="centimeter">54</width>
                                     </dimensions>
                                 </layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Letter heights: <height unit="centimeter" min="" max=""
-                                    scope="letter">TK</height> cm high</handNote>
+                            <handNote>Cursive-style but detached letters, on the left: <height unit="centimeter" min="4" max="7"
+                                    scope="letter">4-7</height> cm high</handNote>
                         </handDesc>
                     </physDesc>
                     <history>
@@ -77,25 +78,19 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb/>φιλῶ ἧς [   ̣  ̣  ] ΤΩΝ
-                    <lb/>ὁ ἀριθμὸ̣[ς   ̣  ̣  ̣ ]   ̣ ΗΝ  [ ψλα  [ 
-                    <lb break="no"/>7 
-                    <lb break="no"/>]   ̣ [
-                    <lb/>ΕΝΗΣ
-                    <lb/>ΣΑ   ̣  ̣ ΠΙ Μ   ̣  Μ̣
-                    <lb/>traces Π traces ΝΙΚΛΑΠΑΝ
-                    <lb/>]α
-                    <lb/>]ντλ̣
-                    <lb/>]  ατο</ab>
+                    <lb n="1"/><w lemma="φιλέω">φιλῶ</w> <w lemma="ὅς">ἧς</w> <gap reason="lost" quantity="3" unit="character"/>ΤΩΝ
+                    <lb n="2"/><w lemma="ὁ">ὁ</w> <w lemma="ἀριθμός">ἀριθμ<unclear>ὸ</unclear><supplied reason="lost">ς</supplied></w> <gap reason="lost" quantity="3" unit="character"/><gap reason="illegible" quantity="1" unit="character"/>HN<gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><num value="731">ψλα</num> <gap reason="lost" quantity="7" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+                </ab>
             </div>
             <div type="translation">
                 <ab>“I love a (woman) whose number is 731.”</ab>
             </div>
             <div type="commentary">
-                <ab>Below T24.1, probably not continuous with it. perhaps 6 lines, area ca. 27 cm wide × 32 cm high. detached majuscule letters 3 cm high. at the top center, a projecting piece of plaster with remains of three lines. area 30 cm wide × 24 m high; original area unknown. fairly well-made cursive-style letters 4–6 cm high.</ab>
+                <ab>3. The number 731 equates most probably to the name <persName type="attested"><name nymRef="nametable.xml#Ἄνθουσα" type="cognomen">Ἄνθουσα</name></persName> (1 + 50 + 9 + 70 + 400 + 200 + 1). See Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 48, for isopsephisms referring to a woman.</ab>
             </div>
             <div type="bibliography">
-                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): TK.</p>
+                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 236; Bagnall, R., Everyday Writing in the Graeco-Roman East (2011): 14-15; SEG 61.956.</p>
             </div>
         </body>
     </text>

@@ -42,22 +42,21 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>
-                                    <lb/>on left pier (a35), at top, isolated letters in a space 14 cm wide × 9 cm high. surface broken at right. letters 5 cm high.
-                    <lb/>× 28 cm high.</support>
+                                <support>Bay 24 [= G31, between Piers A35 and A36]. On left pier (A35), at top.</support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>TK Dimensions:
+                                <layout>Surface broken at
+                                    right. Isolated letters in a area:
                                             <dimensions>
-                                        <height unit="centimeter">TK</height>
-                                        <width unit="centimeter">TK</width>
+                                        <height unit="centimeter">9</height>
+                                        <width unit="centimeter">14</width>
                                     </dimensions>
                                 </layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Letter heights: <height unit="centimeter" min="" max=""
-                                    scope="letter">TK</height> cm high</handNote>
+                            <handNote>Letter heights: <height unit="centimeter" 
+                                    scope="letter">5</height> cm high</handNote>
                         </handDesc>
                     </physDesc>
                     <history>
@@ -79,16 +78,17 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb/>ΔΟ̣</ab>
+                    <lb n="1"/>Δ<unclear>Ο</unclear>
+                </ab>
             </div>
             <div type="translation">
                 <ab/>
             </div>
             <div type="commentary">
-                <ab>on the eastern half of the back wall of the bay, in black and red ink. dimensions 49.5 cm wide dipinto of a male sexual organ, located in the eastern half of the back wall of Bay 24, toward the middle. The drawing is heavily damaged by very large lacunae. additionally, the black color has faded in several areas, making it difficult to recognize the overall outline. from what is discernible, the corpus of the penis is drawn horizontally with two parallel lines converging at the right end in a rounded tip, where a series of shorter, vertical streaks might indicate the foreskin and the meatus. The two testicles are drawn perpendicularly to the corpus and are detached. roughly circular in shape, they seem to have been drawn first in red and then retraced in black.</ab>
+                <ab/>
             </div>
             <div type="bibliography">
-                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): TK.</p>
+                <p>Bagnall, R. S. et al., Graffiti from the Basilica in the Agora of Smyrna (2016): 240</p>
             </div>
         </body>
     </text>
